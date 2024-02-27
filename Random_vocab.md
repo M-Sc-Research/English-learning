@@ -49,4 +49,3 @@ Replenish
 Contributing
 مشارکت کردن / مشارکت داشتن
 
-@lingano_com
