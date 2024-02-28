@@ -48,4 +48,12 @@ Replenish
 تجدید کردن / پر کردن
 Contributing
 مشارکت کردن / مشارکت داشتن
-
+Rely on اعتماد کردن 
+Overall سرتاسر,روی هم رفته 
+Curiosity حس کنجکاوی,کیاراسیتی 
+Layoffs اخراج 
+Overwhelmed غرق شده 
+Accomplishment موفقیت 
+Self-accountability مسوولیت پذیری
+Ongoing مداوم 
+Currently learn to go
