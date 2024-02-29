@@ -57,3 +57,6 @@ Accomplishment موفقیت
 Self-accountability مسوولیت پذیری
 Ongoing مداوم 
 Currently learn to go
+do a degree
+essays
+to last = continue for a period of time
