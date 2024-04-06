@@ -9,6 +9,7 @@ Water vapor
 <br>
 Crucial
 حیاتی / بحرانی
+<br>
 Insulating
 عایق‌بندی کردن
 Snowflake
