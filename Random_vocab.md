@@ -126,5 +126,3 @@ ex: how long does the film last? two hours
 ✔️Would you massage my shoulders?
 آیا شونه‌های من رو ماساژ میدی؟
 
-#لغات 
-✔️@lingano_com
