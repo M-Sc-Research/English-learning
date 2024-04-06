@@ -86,3 +86,45 @@ ex: how long does the film last? two hours
 
 
 <br>
+
+
+✔️Vacation
+تعطیلات
+✔️They went to Europe on vacation.
+آنها برای تعطیلات به اروپا رفتند.
+✔️Vocation
+شغل/حرفه
+✔️I feel I've found my true vocation.
+احساس می‌کنم حرفه واقعیم رو پیدا کردم.
+
+✔️Sole
+تنها/کف پا
+✔️She is the sole survivor of the accident.
+او تنها بازمانده این حادثه هست.
+✔️a cut on the sole of her foot.
+بریدگی در کف پایش.
+✔️Soul
+روح
+✔️I have a sense that we all do have a soul.
+من این حس رو دارم که همه ما روح داریم.
+
+✔️Sick
+مریض
+✔️a sick child
+یک کودک مریض
+✔️Seek
+جستجو کردن
+✔️"Are you seeking jobs?" she asked.
+"آیا به دنبال شغل هستی؟" او پرسید.
+
+✔️Message
+پیام
+✔️I got a message that she'll be late.
+پیام دادم که اون دیر میاد.
+✔️Massage
+ماساژ
+✔️Would you massage my shoulders?
+آیا شونه‌های من رو ماساژ میدی؟
+
+#لغات 
+✔️@lingano_com
