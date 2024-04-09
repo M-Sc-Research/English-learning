@@ -125,4 +125,37 @@ ex: how long does the film last? two hours
 ماساژ
 ✔️Would you massage my shoulders?
 آیا شونه‌های من رو ماساژ میدی؟
-
+<br>
+Significant
+قابل توجه
+Affection
+محبت
+Towards
+به سمت
+Manifest
+آشکار ساختن
+Various
+مختلف
+Familial
+خانوادگی
+Platonic
+(در عشق یا دوستی) صمیمی و محبت آمیز اما نه جنسی
+Intense
+شدید
+Attraction
+جاذبه
+Desire
+میل
+Committed
+متعهد شده
+Characterized
+مشخص کردن
+Unconditional
+بدون قید و شرط
+Acceptance
+پذیرش - پذیرفته شدن
+Individuals
+اشخاص حقیقی
+Devoid
+خالی/بدون
+@lingano_com
