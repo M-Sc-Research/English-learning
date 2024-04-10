@@ -18,6 +18,7 @@ Snowflake
 <br>
 Formation
 تشکیل
+<br>
 Arising
 ظهور / بروز
 Condense
