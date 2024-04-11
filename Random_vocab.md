@@ -21,6 +21,7 @@ Formation
 <br>
 Arising
 ظهور / بروز
+<br>
 Condense
 تر و تمیز شد
 <br>
