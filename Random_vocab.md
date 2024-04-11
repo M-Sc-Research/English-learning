@@ -22,7 +22,8 @@ Formation
 Arising
 ظهور / بروز
 Condense
-تر و تمیز شدن
+تر و تمیز شد
+<br>
 Collide
 برخورد کردن
 Water droplets
