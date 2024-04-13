@@ -163,4 +163,3 @@ Individuals
 اشخاص حقیقی
 Devoid
 خالی/بدون
-@lingano_com
