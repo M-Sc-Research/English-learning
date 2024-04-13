@@ -164,3 +164,5 @@ Individuals
 Devoid
 خالی/بدون
 <br>
+crumble
+متلاشی
