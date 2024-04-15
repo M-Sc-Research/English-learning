@@ -27,6 +27,7 @@ Condense
 <br>
 Collide
 برخورد کردن
+<br>
 Water droplets
 قطرات آب
 Intricate patterns
