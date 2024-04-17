@@ -39,6 +39,7 @@ Descend
 <br>
 Presence
 حضور
+<br>
 Far-reaching
 گسترده
 Environment
