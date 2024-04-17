@@ -36,6 +36,7 @@ Intricate patterns
 <br>
 Descend
 نزول
+<br>
 Presence
 حضور
 Far-reaching
