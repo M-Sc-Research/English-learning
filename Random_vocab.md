@@ -42,6 +42,7 @@ Presence
 <br>
 Far-reaching
 گسترده
+<br>
 Environment
 محیط / محیط زیست
 Surface
