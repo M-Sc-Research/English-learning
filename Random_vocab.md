@@ -173,3 +173,48 @@ Devoid
 <br>
 crumble
  متلاشی شدن
+
+<br>
+
+Benefit
+مزیت
+Adequate
+کافی
+Amount
+مقدار
+Essential
+ضروری
+Maintaining
+حفظ کردن/نگه‌داری
+Crucial role
+نقش حیاتی
+Various function
+عملکرد‌ مختلف
+Regulating
+تنظیم کننده
+Aiding digestion
+کمک به هضم(غذا)
+Transporting nutrients
+انتقال مواد مغذی
+Cell
+سلول
+Hydrated
+هیدراته
+Lubricate
+روان کردن
+Tissues
+بافت‌
+Furthermore
+علاوه بر این
+Fullness
+احساس سیری
+Boosting metabolism
+افزایش متابولیسم
+Inadequate
+ناکافی
+Dehydration
+خشکی/کم‌آبی بدن
+Fatigue
+خستگی
+Concentrating
+تمرکز کردن
