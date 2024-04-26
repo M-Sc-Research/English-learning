@@ -79,7 +79,7 @@ to last = continue for a period of time
 ex: how long does the film last? two hours
 
 
-💥💥
+
 1. Do you like cooking? Why / why not?
 
 📌Sometimes. I like preparing a special meal for family or friends who visit, but everyday cooking is a bit boring; it's something that has to be done, but it's not really fun.
