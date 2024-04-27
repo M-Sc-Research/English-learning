@@ -111,6 +111,7 @@ ex: how long does the film last? two hours
 
 ✔️Sole
 تنها/کف پا
+<br>
 ✔️She is the sole survivor of the accident.
 او تنها بازمانده این حادثه هست.
 ✔️a cut on the sole of her foot.
