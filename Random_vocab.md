@@ -221,4 +221,45 @@ Fatigue
 Concentrating
 تمرکز کردن
 <br>
+Vital ecosystems
+اکوسیستم‌های حیاتی
+Diverse
+متنوع
+Crucial role
+نقش حیاتی
+Maintaining
+حفظ کردن/نگهداری
+Climate
+اقلیم
+Absorbing
+جذب کننده
+Releasing
+انتشار دادن/رها کردن
+Photosynthesis 
+فتوسنتز
+Additionally
+علاوه بر این
+Soil erosion
+فرسایش خاک
+Regulate water cycles
+تنظیم چرخه‌های آبی
+Sponge
+اسفنج‌
+Gradually
+به تدریج
+Moreover
+علاوه بر این
+Numerous
+بسیاری/متعدد
+Recreational
+تفریحی
+Wildlife observation
+مشاهده حیات وحش
+Essential
+ضروری
+Ecological
+زیست محیطی
+Well-being
+رفاه
 
+💠@lingano_com
