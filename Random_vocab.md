@@ -261,5 +261,3 @@ Ecological
 زیست محیطی
 Well-being
 رفاه
-
-<br>
