@@ -120,7 +120,7 @@ ex: how long does the film last? two hours
 روح
 ✔️I have a sense that we all do have a soul.
 من این حس رو دارم که همه ما روح داریم.
-
+<br>
 ✔️Sick
 مریض
 ✔️a sick child
