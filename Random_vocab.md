@@ -262,3 +262,71 @@ Ecological
 زیست محیطی
 Well-being
 رفاه
+
+
+Ocean
+اقیانوس
+Surface
+سطح
+Myriad
+بی‌شمار
+Mystery
+راز و رمز
+Scientist
+دانشمند
+Aid
+کمک
+Unraveling
+رمزگشایی
+Revealing
+آشکار شدن
+Diverse
+متنوع
+Captivating
+جذاب
+Marine life
+زندگی دریایی
+Shallow
+کم عمق
+Coastal
+ساحلی
+Region
+منطقه
+Profound
+عمیق
+Trench
+گودال‌
+Remarkable
+قابل توجه
+Array
+آرایه
+Creature
+موجود
+Vital role
+نقش حیاتی
+Regulating
+تنظیم کردن
+Global climate
+اقلیم جهانی
+Pollution
+آلودگی
+Overfishing
+صید بی‌رویه
+Destruction 
+تخریب
+Threat
+تهدید
+Biodiversity
+تنوع زیستی
+Effort
+تلاش
+Establishment
+تاسیس
+Sustainable
+پایدار
+Preservation
+حفظ
+Generation
+نسل
+
+@lingano_com
