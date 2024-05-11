@@ -329,4 +329,35 @@ Preservation
 Generation
 نسل
 
-@lingano_com
+<br>
+🙂 چند ویژگی شخصیتی Informal یا غیررسمی
+
+✔️Nerd
+کسی که عمیقاً پرشور و آگاه درمورد یک موضوع هست.
+
+مثلا:
+✔️My 13-year-old son is a computer nerd.
+پسر ۱۳ ساله من یک خوره‌ی کامپیوتره.
+
+✔️Cold fish
+کسی که از نظر عاطفی بی‌تفاوته یا فاقد صمیمیت و رفاقت هست.
+
+مثلا:
+✔️Jack's girlfriend is a nice person, but she can be a bit of a cold fish at times.
+دوست دختر جک آدم خوبیه، اما گاهی اوقات می‌تونه سرد و بی‌احساس باشه.
+
+✔️Chatterbox
+کسی که زیاد حرف می‌زنه.
+
+مثلا:
+✔️Sarah is such a chatterbox; She never stops talking.
+سارا عجب آدم پرحرفیه؛ اون اصلا حرف زدنش رو تموم نمی‌کنه.
+
+✔️Lone wolf
+کسی که تنهایی خودش رو ترجیح میده و معاشرت رو دوست نداره.
+
+مثلا:
+✔️Alex is a bit of a lone wolf at the office; He rarely joins in on team launches.
+الکس کمی غیراجتماعی و تنها (تکرو) در دفتر هست. او به ندرت در راه اندازی تیم شرکت می‌کنه.
+
+✅ @lingano_com
