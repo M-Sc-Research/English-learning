@@ -349,7 +349,7 @@ Generation
 ✔️Chatterbox
 کسی که زیاد حرف می‌زنه.
 
-مثلا:
+
 ✔️Sarah is such a chatterbox; She never stops talking.
 سارا عجب آدم پرحرفیه؛ اون اصلا حرف زدنش رو تموم نمی‌کنه.
 
