@@ -342,7 +342,7 @@ Generation
 ✔️Cold fish
 کسی که از نظر عاطفی بی‌تفاوته یا فاقد صمیمیت و رفاقت هست.
 
-مثلا:
+
 ✔️Jack's girlfriend is a nice person, but she can be a bit of a cold fish at times.
 دوست دختر جک آدم خوبیه، اما گاهی اوقات می‌تونه سرد و بی‌احساس باشه.
 
