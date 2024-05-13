@@ -360,4 +360,3 @@ Generation
 ✔️Alex is a bit of a lone wolf at the office; He rarely joins in on team launches.
 الکس کمی غیراجتماعی و تنها (تکرو) در دفتر هست. او به ندرت در راه اندازی تیم شرکت می‌کنه.
 
-✅ @lingano_com
