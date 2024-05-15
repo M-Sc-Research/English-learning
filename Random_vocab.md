@@ -51,6 +51,7 @@ Surface
 <br>
 Regulate
 تنظیم کردن
+<br>
 Prevent
 جلوگیری کردن
 Excessive
