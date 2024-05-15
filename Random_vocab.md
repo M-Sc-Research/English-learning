@@ -54,6 +54,7 @@ Regulate
 <br>
 Prevent
 جلوگیری کردن
+<br>
 Excessive
 بیش از حد
 Additionally
