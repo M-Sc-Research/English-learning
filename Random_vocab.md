@@ -65,6 +65,7 @@ Vegetation
 گیاهان
 Replenish
 تجدید کردن / پر کردن
+<br>
 Contributing
 مشارکت کردن / مشارکت داشتن
 Rely on اعتماد کردن 
