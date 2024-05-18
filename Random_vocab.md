@@ -391,5 +391,3 @@ Generation
 مثلا:
 ✔️I promise I'll be there on time. Cross my heart.
 قول میدم به موقع بیام. قسم می‌خورم.
-
-👍@lingano_com
