@@ -414,3 +414,36 @@ Generation
 مثلا:
 ✔️In her hometown, Sarah was a big fish in a small pond, but she faced bigger challenges in the city.
 سارا در زادگاهش آدم مهمی بود، اما در شهر با چالش‌های بزرگ‌تری روبرو بود.
+
+
+<br>
+
+⬜️ گرامر‌های Both, Either, Neither
+
+✔️Both
+اشاره به دو چیز یا دو فرد باهم داره.
+Both=
+هم ... و هم ...
+
+مثلا:
+✔️Both John and Mary are coming to the party.
+هم جان و هم ماری به مهمونی میاند.
+
+✔️Either
+به یکی از دوتا چیز یا فرد اشاره داره، اما نه هردو.
+Either=
+یا ... یا ...
+
+مثلا:
+✔️You can have either tea or coffee.
+می‌تونی یا چای یا قهوه داشته باشی.
+
+✔️Neither
+اشاره به هیچ یک از دو چیز یا فرد نداره.
+
+Neither=
+نه ... و نه ...
+
+مثلا:
+✔️Neither John nor Mary is coming to the party.
+نه جان و نه ماری به مهمونی نمیاند.
