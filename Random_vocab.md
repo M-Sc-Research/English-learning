@@ -150,6 +150,7 @@ Affection
 محبت
 Towards
 به سمت
+<br>
 Manifest
 آشکار ساختن
 Various
