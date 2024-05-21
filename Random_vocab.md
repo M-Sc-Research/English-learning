@@ -199,6 +199,7 @@ Various function
 عملکرد‌ مختلف
 Regulating
 تنظیم کننده
+<br>
 Aiding digestion
 کمک به هضم(غذا)
 Transporting nutrients
