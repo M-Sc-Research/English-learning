@@ -245,6 +245,7 @@ Releasing
 انتشار دادن/رها کردن
 Photosynthesis 
 فتوسنتز
+<br>
 Additionally
 علاوه بر این
 Soil erosion
