@@ -190,6 +190,7 @@ Adequate
 Amount
 مقدار
 Essential
+<br>
 ضروری
 Maintaining
 حفظ کردن/نگه‌داری
