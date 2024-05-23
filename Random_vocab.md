@@ -165,6 +165,7 @@ Attraction
 جاذبه
 Desire
 میل
+<br>
 Committed
 متعهد شده
 Characterized
