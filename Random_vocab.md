@@ -197,6 +197,7 @@ Maintaining
 حفظ کردن/نگه‌داری
 Crucial role
 نقش حیاتی
+<br>
 Various function
 عملکرد‌ مختلف
 Regulating
