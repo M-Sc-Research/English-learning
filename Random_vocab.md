@@ -207,10 +207,13 @@ Aiding digestion
 کمک به هضم(غذا)
 Transporting nutrients
 انتقال مواد مغذی
+<br>
 Cell
 سلول
+<br>
 Hydrated
 هیدراته
+<br>
 Lubricate
 روان کردن
 Tissues
