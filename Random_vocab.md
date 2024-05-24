@@ -60,10 +60,13 @@ Excessive
 <br>
 Additionally
 علاوه بر این
+<br>
 Soil
 خاک
+<br>
 Vegetation
 گیاهان
+<br>
 Replenish
 تجدید کردن / پر کردن
 <br>
