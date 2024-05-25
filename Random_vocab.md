@@ -487,8 +487,3 @@ Neither=
 📌When Jack retired, his boss made a speech paying tribute to all he had done for the company.
 
 
-#Collocations 
-#SpeakingIELTS 
-#WritingTask2 
-
-🤖اموزش رایگان زبان از طریق بات تلگرام
