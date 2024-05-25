@@ -460,3 +460,35 @@ Neither=
 ✔️Neither John nor Mary is coming to the party.
 نه جان و نه ماری به مهمونی نمیاند.
 <br>
+
+
+
+🧩pay attention
+(توجه كردن)
+
+📌You must pay attention to the teacher.
+
+
+🧩pay a compliment
+(از كسى تعريف و تمجيد كردن)
+
+📌I was trying to pay her a compliment but she misunderstood.
+
+
+🧩pay your (last) respects
+(احترام گذاشتن در مجلس ختم) 
+
+📌At a funeral people pay their last respects to the person who has died.
+
+
+🧩pay tribute [formal]
+(تكريم كردن)
+
+📌When Jack retired, his boss made a speech paying tribute to all he had done for the company.
+
+
+#Collocations 
+#SpeakingIELTS 
+#WritingTask2 
+
+🤖اموزش رایگان زبان از طریق بات تلگرام
