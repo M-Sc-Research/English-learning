@@ -488,3 +488,32 @@ Neither=
 
 
 <br>
+
+🌆 کلمات رایج مربوط به "city" یا "شهر"
+
+1. Downtown
+مرکز شهر
+✔️The downtown area is filled with shops and restaurants.
+محدوده مرکز شهر پر از  فروشگاه‌ها و رستوران‌هاست.
+
+2. Avenue
+خیابان
+✔️Fifth Avenue in Manhattan is famous for its upscale boutiques.
+خیابان پنجم در منهتن به خاطر بوتیک‌های لوکسش معروفه.
+
+3. District
+منطقه/ناحیه
+✔️The financial district is where most banks and offices are located.
+منطقه مالی، جایی هست که بیشتر بانک‌ها و ادارات در اون قرار دارند.
+
+4. Street
+خیابان
+✔️They walked down the street hand in hand.
+اون‌ها دست در دست توی خیابان قدم زدند.
+
+5. Square
+میدان
+ ✔️Times Square in New York City is famous for its bright lights and bustling atmosphere.
+میدان تایمز در شهر نیویورک به خاطر نورهای روشن و فضای شلوغش معروف هست.
+
+✔️@lingano_com
