@@ -72,6 +72,7 @@ Replenish
 <br>
 Contributing
 مشارکت کردن / مشارکت داشتن
+<br>
 Rely on اعتماد کردن 
 Overall سرتاسر,روی هم رفته 
 Curiosity حس کنجکاوی,کیاراسیتی 
