@@ -74,6 +74,7 @@ Contributing
 مشارکت کردن / مشارکت داشتن
 <br>
 Rely on اعتماد کردن 
+<br>
 Overall سرتاسر,روی هم رفته 
 Curiosity حس کنجکاوی,کیاراسیتی 
 Layoffs اخراج 
