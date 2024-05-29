@@ -76,6 +76,7 @@ Contributing
 Rely on اعتماد کردن 
 <br>
 Overall سرتاسر,روی هم رفته 
+<br>
 Curiosity حس کنجکاوی,کیاراسیتی 
 Layoffs اخراج 
 Overwhelmed غرق شده 
