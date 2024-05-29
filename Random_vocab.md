@@ -78,6 +78,7 @@ Rely on اعتماد کردن
 Overall سرتاسر,روی هم رفته 
 <br>
 Curiosity حس کنجکاوی,کیاراسیتی 
+<br>
 Layoffs اخراج 
 Overwhelmed غرق شده 
 Accomplishment موفقیت 
