@@ -533,3 +533,5 @@ To resist something means to try not to do or have something, even if it's tempt
 That's impressive that you've been able to avoid sugar and soda for two years — it can be tough to cut out those kinds of things, especially if you're used to having them regularly. But it sounds like you're making conscious choices to eat healthy foods most of the time, even if you do indulge in the occasional treat.
 
 <br>
+
+That's a good approach to have — being honest with your friends about your dietary choices and expecting them to respect your decisions. It's important to be mindful of what you're eating and drinking, but it's also okay to indulge occasionally, especially when you're in a social setting. As long as you're making healthy choices most of the time, an occasional treat won't derail your overall goals. Do you find that maintaining a healthy diet makes you feel better overall, both physically and mentally?
