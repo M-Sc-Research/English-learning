@@ -525,3 +525,9 @@ Neither=
 <br>
 
 To resist something means to try not to do or have something, even if it's tempting. For example, if you're trying to eat healthy, you might try to resist eating a delicious but unhealthy dessert. 
+
+
+<br>
+
+
+That's impressive that you've been able to avoid sugar and soda for two years — it can be tough to cut out those kinds of things, especially if you're used to having them regularly. But it sounds like you're making conscious choices to eat healthy foods most of the time, even if you do indulge in the occasional treat.
