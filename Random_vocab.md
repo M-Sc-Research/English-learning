@@ -523,3 +523,5 @@ Neither=
 1. What's your favorite type of cuisine, or is there a particular dish that you can't resist?
 
 <br>
+
+To resist something means to try not to do or have something, even if it's tempting. For example, if you're trying to eat healthy, you might try to resist eating a delicious but unhealthy dessert. 
