@@ -541,3 +541,6 @@ That's a good approach to have — being honest with your friends about your die
 
 
 It's important to find a balance between maintaining a healthy body and enjoying the foods you love. It sounds like you've made great progress in losing weight and achieving a body that you're happy with, but it's also important to make sure you're not pushing yourself too hard or denying yourself the things you enjoy. Do you have any strategies for balancing your desire to stay healthy with your love of food?
+
+
+<br>
