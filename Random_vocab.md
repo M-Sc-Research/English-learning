@@ -519,5 +519,3 @@ Neither=
 میدان
  ✔️Times Square in New York City is famous for its bright lights and bustling atmosphere.
 میدان تایمز در شهر نیویورک به خاطر نورهای روشن و فضای شلوغش معروف هست.
-
-✔️@lingano_com
