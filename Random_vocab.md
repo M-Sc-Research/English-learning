@@ -549,3 +549,6 @@ It's important to find a balance between maintaining a healthy body and enjoying
 It's understandable that your body image can have a big impact on your self-confidence and overall mental health. It's great that you've found ways to balance your love of food with your desire to stay healthy, like enjoying your mom's cooking while also being mindful of your portion sizes. Do you also make time for physical activity in your daily routine to help maintain your health?
 
 <br>
+
+
+Walking and jogging are both great forms of exercise, and it sounds like you're getting plenty of steps in throughout your day! Making time for physical activity can be a challenge, especially when you have a busy schedule, but it's important to prioritize your health. It's great that you enjoy sports and are planning to start a workout routine after your exams. What kind of workout are you thinking of doing?
