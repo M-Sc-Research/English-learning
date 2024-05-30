@@ -544,3 +544,6 @@ It's important to find a balance between maintaining a healthy body and enjoying
 
 
 <br>
+
+
+It's understandable that your body image can have a big impact on your self-confidence and overall mental health. It's great that you've found ways to balance your love of food with your desire to stay healthy, like enjoying your mom's cooking while also being mindful of your portion sizes. Do you also make time for physical activity in your daily routine to help maintain your health?
