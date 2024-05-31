@@ -164,6 +164,7 @@ Various
 مختلف
 Familial
 خانوادگی
+<br>
 Platonic
 (در عشق یا دوستی) صمیمی و محبت آمیز اما نه جنسی
 Intense
