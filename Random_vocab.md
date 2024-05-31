@@ -237,6 +237,7 @@ Inadequate
 <br>
 Dehydration
 خشکی/کم‌آبی بدن
+<br>
 Fatigue
 خستگی
 <br>
