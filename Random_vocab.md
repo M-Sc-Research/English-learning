@@ -153,6 +153,7 @@ ex: how long does the film last? two hours
 <br>
 Significant
 قابل توجه
+<br>
 Affection
 محبت
 Towards
