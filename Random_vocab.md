@@ -238,6 +238,7 @@ Dehydration
 خشکی/کم‌آبی بدن
 Fatigue
 خستگی
+<br>
 Concentrating
 تمرکز کردن
 <br>
