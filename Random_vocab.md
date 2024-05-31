@@ -277,6 +277,7 @@ Moreover
 علاوه بر این
 Numerous
 بسیاری/متعدد
+<br>
 Recreational
 تفریحی
 <br>
