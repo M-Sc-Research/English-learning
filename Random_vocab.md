@@ -561,3 +561,39 @@ Walking and jogging are both great forms of exercise, and it sounds like you're 
 
 
 Going to the gym can be a great way to get a full-body workout and try out different types of exercise. Many gyms offer a variety of equipment, like weight machines, cardio machines, and free weights, so you can experiment with different exercises and find what works best for you. Are there any specific areas of your body that you want to focus on, like building strength or improving flexibility?
+
+
+<br>
+
+
+🌙 چندتا اصطلاح کاربردی با "Moon" یا "ماه"
+
+✔️Bark at the moon
+انجام کاری که هیچ نتیجه و هدف مفیدی نداره.
+
+مثلا:
+✔️She felt like she was Barking at the Moon, as no one listened to her ideas.
+او احساس می‌کرد که کارش هیچ نتیجه‌ای نداره، چون هیچ کس به ایده‌هاش گوش نمی‌داد.
+
+✔️Over the moon
+فوق‌العاده شاد بودن
+
+مثلا:
+✔️She was over the moon when she got the job offer.
+او وقتی پیشنهاد کار رو دریافت کرد، خیلی خوشحال بود.
+
+✔️To the moon and back
+ابراز محبت و عشق زیاد
+
+مثلا:
+✔️I love you to the Moon and back, "he whispered to her."
+من تورو خیلی زیاد دوستت دارم، "اون باهاش زمزمه کرد."
+
+✔️Ask for the moon
+درخواست چیزی که غیرمعقول یا غیرممکن هست.
+
+✔️Expecting perfect assignments over the holidays is asking for the Moon.
+انتظار تکالیف(وظایف) کامل در تعطیلات، درخواست غیرمعقولیه.
+
+
+✅@lingano_com
