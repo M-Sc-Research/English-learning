@@ -129,6 +129,7 @@ ex: how long does the film last? two hours
 <br>
 ✔️a cut on the sole of her foot.
 بریدگی در کف پایش.
+<br>
 ✔️Soul
 روح
 ✔️I have a sense that we all do have a soul.
