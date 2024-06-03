@@ -120,7 +120,7 @@ ex: how long does the film last? two hours
 شغل/حرفه
 ✔️I feel I've found my true vocation.
 احساس می‌کنم حرفه واقعیم رو پیدا کردم.
-
+<br>
 ✔️Sole
 تنها/کف پا
 <br>
