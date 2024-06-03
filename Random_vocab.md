@@ -126,6 +126,7 @@ ex: how long does the film last? two hours
 <br>
 ✔️She is the sole survivor of the accident.
 او تنها بازمانده این حادثه هست.
+<br>
 ✔️a cut on the sole of her foot.
 بریدگی در کف پایش.
 ✔️Soul
