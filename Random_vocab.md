@@ -114,6 +114,7 @@ ex: how long does the film last? two hours
 
 ✔️Vacation
 تعطیلات
+<br>
 ✔️They went to Europe on vacation.
 آنها برای تعطیلات به اروپا رفتند.
 ✔️Vocation
