@@ -207,6 +207,7 @@ Essential
 ضروری
 Maintaining
 حفظ کردن/نگه‌داری
+<br>
 Crucial role
 نقش حیاتی
 <br>
