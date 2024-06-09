@@ -173,6 +173,7 @@ Platonic
 (در عشق یا دوستی) صمیمی و محبت آمیز اما نه جنسی
 Intense
 شدید
+<br>
 Attraction
 جاذبه
 Desire
