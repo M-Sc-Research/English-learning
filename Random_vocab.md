@@ -200,7 +200,7 @@ crumble
 Benefit<br>
 مزیت
 Adequate
-کافی
+کافی<br>
 Amount
 مقدار
 Essential
