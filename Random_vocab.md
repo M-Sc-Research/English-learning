@@ -89,6 +89,7 @@ Currently learn to go
 do a degree
 essays
 to last = continue for a period of time
+<br>
 ex: how long does the film last? two hours
 
 <br>
