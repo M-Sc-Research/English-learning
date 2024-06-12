@@ -140,6 +140,7 @@ ex: how long does the film last? two hours
 <br>
 ✔️Sick
 مریض
+<br>
 ✔️a sick child
 یک کودک مریض
 ✔️Seek
