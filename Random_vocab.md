@@ -1,4 +1,4 @@
-gOccurrence
+Occurrence
 وقوع / رویداد
 <br>
 Climate 
