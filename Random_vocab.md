@@ -609,4 +609,29 @@ Going to the gym can be a great way to get a full-body workout and try out diffe
 انتظار تکالیف(وظایف) کامل در تعطیلات، درخواست غیرمعقولیه.
 
 
-✅@lingano_com
+
+
+🧩pay attention
+(توجه كردن)
+
+📌You must pay attention to the teacher.
+
+
+🧩pay a compliment
+(از كسى تعريف و تمجيد كردن)
+
+📌I was trying to pay her a compliment but she misunderstood.
+
+
+🧩pay your (last) respects
+(احترام گذاشتن در مجلس ختم) 
+
+📌At a funeral people pay their last respects to the person who has died.
+
+
+🧩pay tribute [formal]
+(تكريم كردن)
+
+📌When Jack retired, his boss made a speech paying tribute to all he had done for the company.
+
+
