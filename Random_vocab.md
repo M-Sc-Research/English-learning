@@ -192,6 +192,7 @@ Acceptance
 پذیرش - پذیرفته شدن
 Individuals
 اشخاص حقیقی
+<br>
 Devoid
 خالی/بدون
 <br>
