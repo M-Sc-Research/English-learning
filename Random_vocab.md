@@ -184,6 +184,7 @@ Desire
 <br>
 Committed
 متعهد شده
+<br>
 Characterized
 مشخص کردن
 Unconditional
