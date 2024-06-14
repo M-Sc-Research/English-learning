@@ -404,7 +404,7 @@ Generation
 <br>
 
 
-Heart 
+Heart expression 
 
 ✔️Have a heart of gold
 این اصطلاح به شخصی اشاره داره که فوق‌العاده مهربون و سخاوتمند هست.
