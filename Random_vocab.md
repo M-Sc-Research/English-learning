@@ -351,6 +351,7 @@ Regulating
 تنظیم کردن
 Global climate
 اقلیم جهانی
+<br>
 Pollution
 آلودگی
 Overfishing
