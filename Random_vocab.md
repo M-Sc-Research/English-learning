@@ -84,6 +84,7 @@ Layoffs اخراج
 Overwhelmed غرق شده 
 <br>
 Accomplishment موفقیت 
+<br>
 Self-accountability مسوولیت پذیری
 Ongoing مداوم 
 Currently learn to go
