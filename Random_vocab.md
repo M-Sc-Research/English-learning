@@ -88,6 +88,7 @@ Accomplishment موفقیت
 Self-accountability مسوولیت پذیری
 <br>
 Ongoing مداوم 
+<br>
 Currently learn to go
 <br>
 do a degree
