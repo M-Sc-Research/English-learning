@@ -82,6 +82,7 @@ Curiosity حس کنجکاوی,کیاراسیتی
 Layoffs اخراج 
 <br>
 Overwhelmed غرق شده 
+<br>
 Accomplishment موفقیت 
 Self-accountability مسوولیت پذیری
 Ongoing مداوم 
