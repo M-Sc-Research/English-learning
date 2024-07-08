@@ -103,6 +103,7 @@ ex: how long does the film last? two hours
 <br>
 
 📌Sometimes. I like preparing a special meal for family or friends who visit, but everyday cooking is a bit boring; it's something that has to be done, but it's not really fun.
+
 <br>
 
 2. Who did the cooking in your family when you were a child?
@@ -112,12 +113,15 @@ ex: how long does the film last? two hours
 3. Do you think that it's important to know how to cook well?
 
 <br>
+
 📌I'm not sure whether it's important to cook well, but I do think that everyone should know the basics. It definitely isn't healthy to rely on pre-prepared meals or fast food.
 
 4. Do you think that children should be taught cookery at school?
 
 📌Yes, that's probably a good idea. If all children knew how to cook a few basic, healthy meals, that would surely be a good thing.
+
 <br>
+
 ✔️Vacation
 تعطیلات
 <br>
