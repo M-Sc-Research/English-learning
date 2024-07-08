@@ -201,11 +201,10 @@ Devoid
 <br>
 crumble
  متلاشی شدن
-
 <br>
-
-Benefit<br>
+Benefit
 مزیت
+<br>
 Adequate
 کافی<br>
 Amount
