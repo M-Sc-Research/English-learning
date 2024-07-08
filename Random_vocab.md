@@ -80,6 +80,7 @@ Overall سرتاسر,روی هم رفته
 Curiosity حس کنجکاوی,کیاراسیتی 
 <br>
 Layoffs اخراج 
+<br>
 Overwhelmed غرق شده 
 Accomplishment موفقیت 
 Self-accountability مسوولیت پذیری
