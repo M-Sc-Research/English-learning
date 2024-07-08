@@ -168,7 +168,8 @@ Towards
 Manifest
 آشکار ساختن
 Various
-مختلف
+مختل
+<br>
 Familial
 خانوادگی
 <br>
