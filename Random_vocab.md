@@ -86,6 +86,7 @@ Overwhelmed غرق شده
 Accomplishment موفقیت 
 <br>
 Self-accountability مسوولیت پذیری
+<br>
 Ongoing مداوم 
 Currently learn to go
 <br>
