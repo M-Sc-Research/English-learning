@@ -202,6 +202,7 @@ Characterized
 <br>
 Unconditional
 بدون قید و شرط
+<br>
 Acceptance
 پذیرش - پذیرفته شدن
 Individuals
