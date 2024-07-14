@@ -199,6 +199,7 @@ Committed
 <br>
 Characterized
 مشخص کردن
+<br>
 Unconditional
 بدون قید و شرط
 Acceptance
