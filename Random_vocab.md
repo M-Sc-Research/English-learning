@@ -205,6 +205,7 @@ Unconditional
 <br>
 Acceptance
 پذیرش - پذیرفته شدن
+<br>
 Individuals
 اشخاص حقیقی
 <br>
