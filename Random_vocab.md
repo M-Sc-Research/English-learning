@@ -675,4 +675,3 @@ Going to the gym can be a great way to get a full-body workout and try out diffe
 5⃣"That sounds good."
 یعنی "این خوب به نظر می‌رسه" و برای ابراز موافقت با یک پیشنهاد استفاده میشه.
 
-⚜@lingano_com
