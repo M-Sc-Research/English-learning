@@ -660,18 +660,18 @@ Going to the gym can be a great way to get a full-body workout and try out diffe
 
 
 
-1⃣"Can I get you anything?"
+"Can I get you anything?"
 - یعنی "می‌تونم چیزی برات بیارم؟" و برای پیشنهاد کمک یا سرویس به دیگران استفاده میشه.
 
-2⃣"I'm just looking, thanks." 
+"I'm just looking, thanks." 
 یعنی "فقط نگاه می‌کنم، مرسی" و در هنگام خرید برای بیان اینکه نیازی به کمک ندارید، استفاده میشه.
 
-3⃣"How have you been?"
+"How have you been?"
 یعنی "این مدت چطور بودی؟" و برای پرسیدن حال کسی بعد از مدتی که ندیدیدش، استفاده میشه.
 
-4⃣"I'll get back to you."
+"I'll get back to you."
 یعنی "بهت خبر می‌دم" و برای اعلام اینکه بعداً به موضوعی پاسخ می‌دید، استفاده میشه.
 
-5⃣"That sounds good."
+"That sounds good."
 یعنی "این خوب به نظر می‌رسه" و برای ابراز موافقت با یک پیشنهاد استفاده میشه.
 
