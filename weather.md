@@ -30,12 +30,3 @@
 ✅the rain let up
 (بند امدن باران)
 
-
-
-#Collocations 
-#Weather
-#SpeakingIELTS 
-#WritingTask2 
-#1000COLLOCATIONS_IN10MINUTES_ADAY
-
-🤖اموزش رایگان زبان از طریق بات تلگرام
