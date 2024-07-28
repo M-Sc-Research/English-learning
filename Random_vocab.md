@@ -593,6 +593,7 @@ It's understandable that your body image can have a big impact on your self-conf
 Walking and jogging are both great forms of exercise, and it sounds like you're getting plenty of steps in throughout your day! Making time for physical activity can be a challenge, especially when you have a busy schedule, but it's important to prioritize your health. It's great that you enjoy sports and are planning to start a workout routine after your exams. What kind of workout are you thinking of doing?
 
 
+
 Going to the gym can be a great way to get a full-body workout and try out different types of exercise. Many gyms offer a variety of equipment, like weight machines, cardio machines, and free weights, so you can experiment with different exercises and find what works best for you. Are there any specific areas of your body that you want to focus on, like building strength or improving flexibility?
 
 
