@@ -36,4 +36,3 @@ International unity
 Political tensions
 تنش‌های سیاسی  
 
-@lingano_com
