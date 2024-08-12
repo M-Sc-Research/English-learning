@@ -1,11 +1,11 @@
 🚗 
 
-1⃣Steering wheel
+- Steering wheel
 فرمون
 ✔️Turn the steering wheel to the right.
 فرمون رو به سمت راست بچرخون.
 
-2⃣Brake
+Brake
 ترمز
 ✔️The car's brakes are not working properly.
 ترمزهای ماشین به درستی کار نمی‌کنند.
