@@ -21,3 +21,14 @@
 
 
   > Hello, my name is Rebecca. I am from Italy and the question is do you like traveling? Yes, I like traveling very much. Traveling – it's like a hobby for me, and I save money for traveling and to go to the places I wish to know. It's a nice experience every time. It's wonderful. Knowing different people, different cultures is something that teaches you so much about the world and it's amazing. And there is a stereotype that you have to be rich in order to be able to travel. It just depends on your preferences: whether you are willing to stay in a five-star hotel and spend a fortune on  restaurant cuisine or if, instead of that, you are perfectly willing to stay in a hostel and cook for yourself on a shoestring budget. Personally I think that a traveller can both enjoy the experience of travelling and learn about different cultures and customs. This surely enhances their view of the world, increases their tolerance towards other cultures and helps develop their knowledge. It is said that travellers gain first-hand experiences which are more important than the theoretical knowledge we can gather from books. Moreover, travelling helps us to get away from our monotonous routines and it aids in reviving us in order to concentrate with greater diligence upon our employment tasks.
+
+
+## Most difficult words to pronounce
+
+| Word       | Pronunciation     |
+|------------|--------------------|
+| monotonous | /məˈnɑtənəs/      |
+| stereotype  | /ˈstɛ.ɹi.əˌtaɪp/  |
+| teaches    | /tiːtʃ/           |
+| surely     | /ˈʃʊrli/          |
+| fortune    | /ˈfɔrtʃən/        |
