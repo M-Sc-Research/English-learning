@@ -59,3 +59,9 @@ In the passive, the person or thing that the action was done to becomes the topi
     These houses were designed in the 1880s by Edward Barnes. (passive + by + agent)
 
 We use the passive when we want to change the focus of a clause, or if the doer of the verb is not important or not known or if we do not want to say who the doer is
+
+
+
+
+## Mistake
+1. I really enjoy spending my time in on YouTube
