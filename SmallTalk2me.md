@@ -36,3 +36,6 @@
 
 ## Prepositions and particles
 Words such as in, over and with are prepositions. We commonly use prepositions to show a relationship in space or time or a logical relationship between two or more people, places or things. Prepositions are most commonly followed by a noun phrase, a pronoun or the -ing form of a verb.
+## Suffixes
+A suffix is a letter or group of letters added at the end of a word which makes a new word.
+##
