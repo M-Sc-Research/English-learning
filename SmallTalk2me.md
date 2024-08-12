@@ -65,3 +65,5 @@ We use the passive when we want to change the focus of a clause, or if the doer 
 
 ## Mistake
 1. I really enjoy spending my time in on YouTube
+2. And I took this photo in Rio de Janeiro
+3. I kept this photo in mind and all gone because this photo remembers we had good times with each other 
