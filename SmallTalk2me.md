@@ -38,4 +38,24 @@
 Words such as in, over and with are prepositions. We commonly use prepositions to show a relationship in space or time or a logical relationship between two or more people, places or things. Prepositions are most commonly followed by a noun phrase, a pronoun or the -ing form of a verb.
 ## Suffixes
 A suffix is a letter or group of letters added at the end of a word which makes a new word.
-##
+##  Passive voice
+
+Passive: active and passive
+
+We use the terms active voice and passive voice to talk about ways of organising the content of a clause:
+
+    Cambridge University Press published this book. (active)
+
+    This book was published by Cambridge University Press. (passive)
+
+The active voice is the typical word order. We put the subject (the topic or the theme) first. The subject is the ‘doer’ or agent of the verb:
+
+    Edward Barnes designed these houses in the 1880s. (active)
+
+In the passive, the person or thing that the action was done to becomes the topic or theme. We can leave out the ‘doer’ or agent, or we can place the ‘doer’ in a prepositional phrase (by + ‘doer’):
+
+    These houses were designed in the 1880s. (passive without agent)
+
+    These houses were designed in the 1880s by Edward Barnes. (passive + by + agent)
+
+We use the passive when we want to change the focus of a clause, or if the doer of the verb is not important or not known or if we do not want to say who the doer is
