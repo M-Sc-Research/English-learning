@@ -71,3 +71,16 @@ We use the passive when we want to change the focus of a clause, or if the doer 
 
 
 > Tech companies are competing to revolutionize the way we search online. The integration of digital signatures into search engines has been a key development, as it determines the authenticity of the information being presented to us. With machine learning and AI capabilities constantly improving, the future of search engines looks promising. The ability to deliver accurate and trustworthy results with just a few clicks is a game-changer for users. It's an exciting time for tech and the search industry, as we determine the future of how we find information.
+
+<br>
+
+| Word         | Level | Synonyms                          |
+|--------------|-------|-----------------------------------|
+| fun          | A1    | amusing, enjoyable, entertaining   |
+| favorite     | A1    | beloved, cherished, favored       |
+| digital      | A2    | automated, cybernated, programmed  |
+| more         | A1    | also, extra, further              |
+| alternative   | B2    | different, second, substitute      |
+| artificial   | B2    | unreal, bogus, counterfeit        |
+| intelligent  | B1    | astute, brainy, bright           |
+| different    | A1    | contrasting, disparate, distant   |
