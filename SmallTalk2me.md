@@ -67,3 +67,7 @@ We use the passive when we want to change the focus of a clause, or if the doer 
 1. I really enjoy spending my time in on YouTube
 2. And I took this photo in Rio de Janeiro
 3. I kept this photo in mind and all gone because this photo remembers we had good times with each other 
+
+
+
+> Tech companies are competing to revolutionize the way we search online. The integration of digital signatures into search engines has been a key development, as it determines the authenticity of the information being presented to us. With machine learning and AI capabilities constantly improving, the future of search engines looks promising. The ability to deliver accurate and trustworthy results with just a few clicks is a game-changer for users. It's an exciting time for tech and the search industry, as we determine the future of how we find information.
