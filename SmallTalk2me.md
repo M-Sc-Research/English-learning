@@ -111,4 +111,6 @@ Here’s the information in a table format:
 2. I am confident in my ability to communicate in a new language, and I am excited to continue improving my skills.
 3. I am dedicated to expanding my vocabulary and understanding of grammar in a new language, and I am committed to becoming fluent.
 4. I am capable of expressing myself fluently and accurately in a new language, and I am determined to reach an advanced level of proficiency.
+5. I am constantly challenging myself to refine my language skills and deepen my understanding of the culture associated with the new language.
+
 
