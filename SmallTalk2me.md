@@ -104,5 +104,7 @@ Here’s the information in a table format:
 - accommodations
 - don't hesitate to
 - land on
-- 	in sense
-- 	
+- in sense
+
+
+1. I am making progress every day in learning a new language, and I am proud of how far I have come.
