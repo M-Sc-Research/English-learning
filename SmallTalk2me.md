@@ -138,3 +138,8 @@ Where did we park the car? (The speaker and the listener know what car is being 
 We had to paint the apartment before we sold it. (The speaker and the listener know what apartment is being referred to.)
 
 The makes a noun specific.
+
+
+<br>
+
+"I strive to maintain a healthy lifestyle by exercising daily."
