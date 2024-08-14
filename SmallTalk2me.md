@@ -110,4 +110,5 @@ Here’s the information in a table format:
 1. I am making progress every day in learning a new language, and I am proud of how far I have come.
 2. I am confident in my ability to communicate in a new language, and I am excited to continue improving my skills.
 3. I am dedicated to expanding my vocabulary and understanding of grammar in a new language, and I am committed to becoming fluent.
-4. 
+4. I am capable of expressing myself fluently and accurately in a new language, and I am determined to reach an advanced level of proficiency.
+
