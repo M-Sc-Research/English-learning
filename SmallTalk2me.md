@@ -105,6 +105,7 @@ Here’s the information in a table format:
 - don't hesitate to
 - land on
 - in sense
+- cooperation
 
 
 1. I am making progress every day in learning a new language, and I am proud of how far I have come.
