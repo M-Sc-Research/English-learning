@@ -142,4 +142,5 @@ The makes a noun specific.
 
 <br>
 
-"I strive to maintain a healthy lifestyle by exercising daily."
+- I strive to maintain a healthy lifestyle by exercising daily.
+- On The second day of the trip ..
