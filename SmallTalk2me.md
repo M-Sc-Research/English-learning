@@ -118,3 +118,23 @@ Here’s the information in a table format:
 6. I am proficient in a new language and can confidently engage in complex discussions and express myself with precision.
 
 
+## A/an and the: meaning
+A/an and the are articles. They are a type of determiner and they go before a noun.
+
+A/an before a noun shows that what is referred to is not already known to the speaker, listener, writer and/or reader (it is the indefinite article):
+
+Do you have a car?
+
+A:
+Do you live in a house?
+
+B:
+No, actually, I live in an apartment.
+
+The before a noun shows that what is referred to is already known to the speaker, listener, writer and/or reader (it is the definite article):
+
+Where did we park the car? (The speaker and the listener know what car is being referred to.)
+
+We had to paint the apartment before we sold it. (The speaker and the listener know what apartment is being referred to.)
+
+The makes a noun specific.
