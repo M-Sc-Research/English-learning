@@ -90,4 +90,5 @@ We use the passive when we want to change the focus of a clause, or if the doer 
 - accommodations
 - don't hesitate to
 - land on
-- 
+- 	in sense
+- 	
