@@ -84,6 +84,20 @@ We use the passive when we want to change the focus of a clause, or if the doer 
 | artificial   | B2    | unreal, bogus, counterfeit        |
 | intelligent  | B1    | astute, brainy, bright           |
 | different    | A1    | contrasting, disparate, distant   |
+Here’s the information in a table format:
+
+| Word        | Level | Synonyms                             |
+|-------------|-------|--------------------------------------|
+| good        | A1    | acceptable, excellent, exceptional    |
+| healthy     | A2    | active, athletic, fresh               |
+| daily       | A2    | constantly, day-to-day, everyday      |
+| hot         | A1    | blazing, boiling, heated              |
+| favorite    | A1    | beloved, cherished, favored           |
+| important   | A1    | big, critical, crucial                |
+| free        | A2    | complimentary, comp, freebie          |
+| bad         | A2    | atrocious, awful, cheap               |
+| also, as well |     | not to mention, not only that, but, above all |
+| generally    |     | in particular, significantly, in fact |
 
 
 
