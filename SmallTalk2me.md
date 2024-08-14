@@ -84,3 +84,7 @@ We use the passive when we want to change the focus of a clause, or if the doer 
 | artificial   | B2    | unreal, bogus, counterfeit        |
 | intelligent  | B1    | astute, brainy, bright           |
 | different    | A1    | contrasting, disparate, distant   |
+
+
+
+- accommodations
