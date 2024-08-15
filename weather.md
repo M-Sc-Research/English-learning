@@ -17,7 +17,6 @@
 ✅continuous rain or constant rain 
 (باران پيوسته)
 
-
 ✅intermittent rain or scattered showers
 (باران متناوب)
 
