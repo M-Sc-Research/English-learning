@@ -20,7 +20,7 @@
 - I’m going to go with the first house as it’s my favorite one.
 
 
-  > Hello, my name is Rebecca. I am from Italy and the question is do you like traveling? Yes, I like traveling very much. Traveling – it's like a hobby for me, and I save money for traveling and to go to the places I wish to know. It's a nice experience every time. It's wonderful. Knowing different people, different cultures is something that teaches you so much about the world and it's amazing. And there is a stereotype that you have to be rich in order to be able to travel. It just depends on your preferences: whether you are willing to stay in a five-star hotel and spend a fortune on  restaurant cuisine or if, instead of that, you are perfectly willing to stay in a hostel and cook for yourself on a shoestring budget. Personally I think that a traveller can both enjoy the experience of travelling and learn about different cultures and customs. This surely enhances their view of the world, increases their tolerance towards other cultures and helps develop their knowledge. It is said that travellers gain first-hand experiences which are more important than the theoretical knowledge we can gather from books. Moreover, travelling helps us to get away from our monotonous routines and it aids in reviving us in order to concentrate with greater diligence upon our employment tasks.
+  > Hello, my name is Rebecca. I am from Italy and the question is do you like traveling? Yes, I like traveling very much. Traveling – it's like a hobby for me, and I save money for traveling and going to the places I wish to know. It's a nice experience every time. It's wonderful. Knowing different people, and different cultures is something that teaches you so much about the world and it's amazing. And there is a stereotype that you have to be rich to be able to travel. It just depends on your preferences: whether you are willing to stay in a five-star hotel and spend a fortune on  restaurant cuisine or if, instead of that, you are perfectly willing to stay in a hostel and cook for yourself on a shoestring budget. I think that a traveler can both enjoy the experience of traveling and learn about different cultures and customs. This surely enhances their view of the world, increases their tolerance towards other cultures, and helps develop their knowledge. It is said that travelers gain first-hand experiences which are more important than the theoretical knowledge we can gather from books. Moreover, traveling helps us to get away from our monotonous routines and it aids in reviving us to concentrate with greater diligence upon our employment tasks.
 
 
 ## Most difficult words to pronounce
@@ -35,14 +35,14 @@
 
 
 ## Prepositions and particles
-Words such as in, over and with are prepositions. We commonly use prepositions to show a relationship in space or time or a logical relationship between two or more people, places or things. Prepositions are most commonly followed by a noun phrase, a pronoun or the -ing form of a verb.
+Words such as in, over, and with are prepositions. We commonly use prepositions to show a relationship in space or time or a logical relationship between two or more people, places, or things. Prepositions are most commonly followed by a noun phrase, a pronoun or the -ing form of a verb.
 ## Suffixes
 A suffix is a letter or group of letters added at the end of a word which makes a new word.
 ##  Passive voice
 
 Passive: active and passive
 
-We use the terms active voice and passive voice to talk about ways of organising the content of a clause:
+We use the terms active voice and passive voice to talk about ways of organizing the content of a clause:
 
     Cambridge University Press published this book. (active)
 
@@ -54,11 +54,11 @@ The active voice is the typical word order. We put the subject (the topic or the
 
 In the passive, the person or thing that the action was done to becomes the topic or theme. We can leave out the ‘doer’ or agent, or we can place the ‘doer’ in a prepositional phrase (by + ‘doer’):
 
-    These houses were designed in the 1880s. (passive without agent)
+    These houses were designed in the 1880s. (passive without an agent)
 
     These houses were designed in the 1880s by Edward Barnes. (passive + by + agent)
 
-We use the passive when we want to change the focus of a clause, or if the doer of the verb is not important or not known or if we do not want to say who the doer is
+We use the passive when we want to change the focus of a clause, if the doer of the verb is not important or not known, or if we do not want to say who the doer is
 
 
 
