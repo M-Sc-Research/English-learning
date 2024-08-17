@@ -158,3 +158,8 @@ Here are the most popular English language learning goals.
 3. Acquiring Advanced Vocabulary and Idioms: Many students strive to expand their vocabulary range, including idioms and colloquial expressions. This enables learners to express themselves more precisely and understand native speakers better, especially in informal contexts.
 4. Excellence in English grammar: Strong grammar skills are crucial for clear and effective communication. This includes understanding complex grammatical structures and using various tenses accurately.
 5. Achieving High Scores in English Proficiency Tests: Many learners aim to excel in standardized English tests like the IELTS, TOEFL, or Cambridge English exams. High scores are often required for studying abroad, professional certification, or immigration purposes.
+
+
+- Upgrade — to make a machine, computer system, etc. more powerful and efficient
+- Open-source — describing a software or program whose source code is available to the public and can be modified and distributed by anyone
+- Qr code — a type of barcode that can be scanned by a smartphone to reveal information or a website URL
