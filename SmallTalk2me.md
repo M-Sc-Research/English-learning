@@ -184,3 +184,9 @@ Here are the most popular English language learning goals.
 
 - It was awesome because she can change motherboards in just from 2 hours...
 
+. How much would you like to spend on your dream home?
+. What location do you prefer?
+. What are the ultimate must-haves for you?
+. What are you looking for in terms of style?
+. What amenities do you need in your house?
+. What other wishes do you have?
