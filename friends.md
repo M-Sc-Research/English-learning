@@ -1,4 +1,4 @@
-5️⃣ کلمه کاربردی مربوط به "دوستی و رفاقت" یا "Friendship"
+ کلمه کاربردی مربوط به "دوستی و رفاقت" یا "Friendship"
 1. Trust
 اعتماد
 ✔️Trust is the foundation of any lasting friendship.
