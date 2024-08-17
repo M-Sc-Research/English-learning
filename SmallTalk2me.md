@@ -181,3 +181,6 @@ Here are the most popular English language learning goals.
 - come in
 - utilizing
 - leading
+
+- It was awesome because she can change motherboards in just from 2 hours...
+
