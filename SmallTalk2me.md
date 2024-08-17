@@ -144,3 +144,8 @@ The makes a noun specific.
 
 - I strive to maintain a healthy lifestyle by exercising daily.
 - On The second day of the trip ..
+- 
+
+<br>
+
+**S.M.A.R.T. goal, which should be specific, measurable, achievable, realistic, and timely.**
