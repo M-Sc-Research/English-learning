@@ -218,3 +218,7 @@ To blow someone's mind – if something blows your mind, you find it very exciti
 I absolutely love [the French doors / the wood beam ceilings].
 I’m going to go with [house number…].
 To go with – to accept someone’s idea, plan, etc.
+
+> Go far on my own...
+
+
