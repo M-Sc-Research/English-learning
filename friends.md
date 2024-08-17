@@ -23,5 +23,3 @@
 درک
 ✔️Mutual understanding is essential for a lasting friendship.
 درک متقابل برای یک دوستی پایدار ضروریه.
-
-✔️@lingano_com
