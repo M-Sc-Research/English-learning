@@ -163,3 +163,13 @@ Here are the most popular English language learning goals.
 - Upgrade — to make a machine, computer system, etc. more powerful and efficient
 - Open-source — describing a software or program whose source code is available to the public and can be modified and distributed by anyone
 - Qr code — a type of barcode that can be scanned by a smartphone to reveal information or a website URL
+
+
+
+| Word      | Level | Synonyms                                   |
+|-----------|-------|--------------------------------------------|
+| helpful   | B1    | accessible, advantageous, applicable       |
+| fast      | A1    | agile, brisk, hot                          |
+| easy      | A1    | accessible, clear, effortless              |
+| awesome    | A2    | amazing, astonishing, astounding            |
+| also      |       | not only ... but also, not only that, but, apart from |
