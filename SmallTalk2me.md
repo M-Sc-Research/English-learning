@@ -222,3 +222,12 @@ To go with – to accept someone’s idea, plan, etc.
 > Go far on my own...
 
 
+Break it Down: Divide the number into smaller chunks. For example, in the US, phone numbers often follow a pattern of (XXX) YYY-ZZZZ.
+Recognizing these divisions can make it easier to remember.
+
+Repeat Back: Repeat the number back to the person to confirm you've got it right.
+You can use the following phrases:
+
+I want to make sure I have it right. Can you say the number again?
+Sorry, could you repeat that? I want to make sure I got it right.
+Sorry, could I get that number one more time?
