@@ -231,3 +231,8 @@ You can use the following phrases:
 I want to make sure I have it right. Can you say the number again?
 Sorry, could you repeat that? I want to make sure I got it right.
 Sorry, could I get that number one more time?
+
+
+
+> Gucci, Chanel, Louis Vuitton Nike, Adidas, H&M, Zara Google, Apple, Dell, Microsoft, Samsung, Amazon YouTube, Facebook, Instagram, TikTok, Twitter, WhatsApp, Zoom Toyota, BMW, Mercedes, Ford, Audi, Porsche McDonald's, KFC, Subway, IKEA, Costco, FedEx, UPS Hilton, Marriott
+
