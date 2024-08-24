@@ -192,32 +192,37 @@ Here are the most popular English language learning goals.
 . What other wishes do you have?
 
 Tips:
-Phrases to describe your dream home:
-I’m looking to [upgrade the family home].
-I’m hoping to stay under …. (dollars/euros) but I could stretch it.
-To stretch – to make your budget bigger.
-I’m looking for some [entertaining space / safe and family neighborhood].
-Entertaining – amusing and interesting.
-It would be wonderful to have [a pool/yard for the kids].
-I need a modern / Spanish-style house.
-Vocabulary to describe spaces:
-Small / tight <-> huge / large space
-[The kitchen] is an amazing size.
-It has a wonderful / fantastic/amazing/incredible view.
-gorgeous/magnificent/beautiful/awesome/elegant patio
-There is a lot of space/room.
-It feels comfortable/cosy/charming.
-Cozy – small, comfortable, and warm.
-It’s very relaxing/intimate/peaceful.
-Intimate – private and friendly so that you feel comfortable.
-This is a dream [closet/garden].
-Expressing your opinion and emotions:
-The cool / best part about this is …
-It blew my mind.
-To blow someone's mind – if something blows your mind, you find it very exciting and unusual.
-I absolutely love [the French doors / the wood beam ceilings].
-I’m going to go with [house number…].
-To go with – to accept someone’s idea, plan, etc.
+# Dream Home Descriptions
+
+## Phrases to Describe Your Dream Home
+- I’m looking to **upgrade the family home**.
+- I’m hoping to stay under … (dollars / euros) but I could **stretch it**.
+  - *To stretch* – to make your budget bigger.
+- I’m looking for some **entertaining space** / **safe and family neighborhood**.
+  - *Entertaining* – amusing and interesting.
+- It would be wonderful to have **a pool** / **yard for the kids**.
+- I need a **modern** / **Spanish-style house**.
+
+## Vocabulary to Describe Spaces
+- **Small / tight** <-> **huge / large space**
+- [The kitchen] is an **amazing size**.
+- It has a **wonderful / fantastic / amazing / incredible view**.
+- **Gorgeous / magnificent / beautiful / awesome / elegant patio**.
+- There is **a lot of space / room**.
+- It feels **comfortable / cosy / charming**.
+  - *Cosy* – small, comfortable, and warm.
+- It’s very **relaxing / intimate / peaceful**.
+  - *Intimate* – private and friendly so that you feel comfortable.
+- This is a dream **closet / garden**.
+
+## Expressing Your Opinion and Emotions
+- The **cool / best part** about this is …
+- It **blew my mind**.
+  - *To blow someone's mind* – if something blows your mind, you find it very exciting and unusual.
+- I absolutely **love** [the French doors / the wood beam ceilings].
+- I’m going to **go with** [house number…].
+  - *To go with* – to accept someone’s idea, plan, etc.
+
 
 > Go far on my own...
 
@@ -236,3 +241,32 @@ Sorry, could I get that number one more time?
 
 > Gucci, Chanel, Louis Vuitton Nike, Adidas, H&M, Zara Google, Apple, Dell, Microsoft, Samsung, Amazon YouTube, Facebook, Instagram, TikTok, Twitter, WhatsApp, Zoom Toyota, BMW, Mercedes, Ford, Audi, Porsche McDonald's, KFC, Subway, IKEA, Costco, FedEx, UPS Hilton, Marriott
 
+
+
+
+Phrases to describe your dream home:
+I’m looking to [upgrade the family home].
+I’m hoping to stay under …. (dollars / euros) but I could stretch it.
+To stretch – to make your budget bigger.
+I’m looking for some [entertaining space / safe and family neighbourhood].
+Entertaining – amusing and interesting.
+It would be wonderful to have [a pool / yard for the kids].
+I need a modern / Spanish-style house.
+Vocabulary to describe spaces:
+Small / tight <-> huge / large space
+[The kitchen] is an amazing size.
+It has a wonderful / fantastic/ amazing / incredible view.
+gorgeous / magnificent / beautiful / awesome / elegant patio
+There is a lot of space / room.
+It feels comfortable / cosy / charming.
+Cosy – small, comfortable, and warm.
+It’s very relaxing / intimate / peaceful.
+Intimate – private and friendly so that you feel comfortable.
+This is a dream [closet / garden].
+Expressing your opinion and emotions:
+The cool / best part about this is …
+It blew my mind.
+To blow someone's mind – if something blows your mind, you find it very exciting and unusual.
+I absolutely love [the French doors / the wood beam ceilings].
+I’m going to go with [house number…].
+To go with – to accept someone’s idea, plan, etc.
