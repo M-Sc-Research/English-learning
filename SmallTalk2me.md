@@ -240,7 +240,54 @@ Sorry, could I get that number one more time?
 
 
 
-> Gucci, Chanel, Louis Vuitton Nike, Adidas, H&M, Zara Google, Apple, Dell, Microsoft, Samsung, Amazon YouTube, Facebook, Instagram, TikTok, Twitter, WhatsApp, Zoom Toyota, BMW, Mercedes, Ford, Audi, Porsche McDonald's, KFC, Subway, IKEA, Costco, FedEx, UPS Hilton, Marriott
+# Brand List
+
+## Fashion Brands
+- Gucci
+- Chanel
+- Louis Vuitton
+- Nike
+- Adidas
+- H&M
+- Zara
+
+## Technology Brands
+- Google
+- Apple
+- Dell
+- Microsoft
+- Samsung
+- Amazon
+
+## Social Media Platforms
+- YouTube
+- Facebook
+- Instagram
+- TikTok
+- Twitter
+- WhatsApp
+- Zoom
+
+## Automotive Brands
+- Toyota
+- BMW
+- Mercedes
+- Ford
+- Audi
+- Porsche
+
+## Food & Retail Brands
+- McDonald's
+- KFC
+- Subway
+- IKEA
+- Costco
+- FedEx
+- UPS
+
+## Hospitality Brands
+- Hilton
+- Marriott
 
 
 
