@@ -292,4 +292,99 @@ Sorry, could I get that number one more time?
 
 
 
+# Enhancing Your Speech with Linking Words  
 
+## Practice Variety  
+Incorporate various linking words to avoid repetition and make your speech more engaging. Words like **"moreover," "furthermore," "in addition," "on the other hand,"** and **"conversely"** serve different purposes and can add depth to your speech.  
+
+## Understand Context  
+Use linking words that suit the context of your speech. For instance, use **"however"** or **"nevertheless"** when presenting contrasting ideas, and employ **"similarly"** or **"likewise"** when expressing similarities.  
+
+## Transition Smoothly  
+Linking words help in transitioning between ideas or arguments. Ensure they flow naturally within your speech, creating a seamless connection between points.  
+
+## Practice Pacing  
+Don’t rush through using linking words. Give them the necessary pause or emphasis to highlight their importance in connecting your ideas effectively.  
+
+## Be Clear and Concise  
+While linking words are essential, avoid overusing them. They should enhance your speech, not overwhelm it. Maintain clarity by using them purposefully and sparingly.  
+
+## Vocabulary - List of Linking Words  
+
+### Addition  
+- Furthermore  
+- Moreover  
+- Additionally  
+- In addition  
+- Also  
+- Besides  
+- Not only... but also  
+
+### Contrast  
+- However  
+- Nevertheless  
+- Nonetheless  
+- On the contrary  
+- Conversely  
+- Although  
+- While  
+- On the other hand  
+
+### Comparison  
+- Similarly  
+- Likewise  
+- In the same way  
+- Just as  
+- Compared to  
+- Similarly to  
+
+### Result/Effect  
+- Consequently  
+- Therefore  
+- Thus  
+- Hence  
+- As a result  
+- Accordingly  
+- So  
+
+### Sequence/Order  
+- Firstly  
+- Secondly  
+- Thirdly  
+- Lastly  
+- Finally  
+- In conclusion  
+- Next  
+- Then  
+
+### Example/Illustration  
+- For example  
+- For instance  
+- Specifically  
+- In particular  
+- To illustrate  
+
+### Emphasis  
+- Indeed  
+- In fact  
+- Of course  
+- Clearly  
+- Undoubtedly  
+- Certainly  
+
+### Time  
+- Meanwhile  
+- Simultaneously  
+- Subsequently  
+- Afterwards  
+- Eventually  
+- In the meantime  
+
+### Cause and Effect  
+- Because  
+- Since  
+- Due to  
+- As a result of  
+- Owing to  
+- Consequently  
+- Therefore
