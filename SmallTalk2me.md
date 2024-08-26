@@ -388,3 +388,15 @@ While linking words are essential, avoid overusing them. They should enhance you
 - Owing to  
 - Consequently  
 - Therefore
+  
+
+
+| Word            | Level | Synonyms                                    |
+|------------------|-------|---------------------------------------------|
+| more             | A1    | also, extra, further                        |
+| big              | A1    | colossal, considerable, enormous            |
+| good             | A1    | acceptable, excellent, exceptional          |
+| helpful          | B1    | accessible, advantageous, applicable        |
+| also, besides    |       | not only that, but, in addition, not to mention |
+| on the other hand|       | unlike, in contrast, otherwise              |
+| clearly          |       | as can be expected, indeed, surely         |
