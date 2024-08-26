@@ -400,3 +400,12 @@ While linking words are essential, avoid overusing them. They should enhance you
 | also, besides    |       | not only that, but, in addition, not to mention |
 | on the other hand|       | unlike, in contrast, otherwise              |
 | clearly          |       | as can be expected, indeed, surely         |
+| first       | A1    | early, aboriginal, antecedent           |
+| many        | A1    | abounding, alive with, bounteous        |
+| interested   | A2    | absorbed, attentive, engrossed           |
+| different   | A1    | contrasting, disparate, distant          |
+| good        | A1    | acceptable, excellent, exceptional       |
+| bad         | A2    | atrocious, awful, cheap                  |
+| also, in addition | A2 | moreover, further, not only ... but also |
+| especially   | A2    | importantly, generally, in particular    |
+| so that     | A2    | so as to do, therefore, thus              |
