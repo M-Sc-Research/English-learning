@@ -411,6 +411,9 @@ While linking words are essential, avoid overusing them. They should enhance you
 | so that     | A2    | so as to do, therefore, thus              |
 
 
-> I remember that when I was a child I wrote some stories and set places and imagined new characters and new places...
+<br><br><br>
+1. I remember that when I was a child I wrote some stories and set places and imagined new characters and new places...
+2. I had a bad score on this course.
+
 
 
