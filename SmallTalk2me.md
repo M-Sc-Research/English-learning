@@ -409,3 +409,8 @@ While linking words are essential, avoid overusing them. They should enhance you
 | also, in addition | A2 | moreover, further, not only ... but also |
 | especially   | A2    | importantly, generally, in particular    |
 | so that     | A2    | so as to do, therefore, thus              |
+
+
+> I remember that when I was a child I wrote some stories and set places and imagined new characters and new places...
+
+
