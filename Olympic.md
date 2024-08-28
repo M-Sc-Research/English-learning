@@ -48,7 +48,8 @@ Accommodations
 اقامتگاه‌ها  
 <br>
 International unity
-وحدت بین‌المللی  
+وحدت بین‌المللی 
+<br> 
 Political tensions
 تنش‌های سیاسی  
 
