@@ -30,7 +30,8 @@ Excellence
 برتری  
 <br>
 Preparation
-آماده‌سازی  
+آماده‌سازی 
+<br>
 Massive undertaking
 کار بزرگ
 Dedication
