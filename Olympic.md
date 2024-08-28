@@ -34,6 +34,7 @@ Preparation
 <br>
 Massive undertaking
 کار بزرگ
+<br>
 Dedication
 تعهد  
 Host cities
