@@ -40,6 +40,7 @@ Dedication
 <br>
 Host cities
 شهرهای میزبان  
+<br>
 Infrastructure
 زیرساخت  
 Accommodations
