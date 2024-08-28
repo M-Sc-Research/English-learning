@@ -28,6 +28,7 @@ Values
 <br>
 Excellence
 برتری  
+<br>
 Preparation
 آماده‌سازی  
 Massive undertaking
