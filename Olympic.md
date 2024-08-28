@@ -18,7 +18,7 @@ Ancient Greek games
 بازی‌های یونان باستان  
 <br>
 Disciplines
-رشته‌ها  
+  
 <br>
 Pride
 افتخار
