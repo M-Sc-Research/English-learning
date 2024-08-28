@@ -22,6 +22,7 @@ Disciplines
 <br>
 Pride
 افتخار
+<br>
 Values
 ارزش‌ها  
 Excellence
