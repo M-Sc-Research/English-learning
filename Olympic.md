@@ -25,6 +25,7 @@ Pride
 <br>
 Values
 ارزش‌ها  
+<br>
 Excellence
 برتری  
 Preparation
