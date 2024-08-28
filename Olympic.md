@@ -19,6 +19,7 @@ Ancient Greek games
 <br>
 Disciplines
 رشته‌ها  
+<br>
 Pride
 افتخار
 Values
