@@ -33,9 +33,11 @@ Headlight
 چراغ‌های جلوی ماشین خیلی روشن هستند.
 
 
-5⃣Windshield
+Windshield
+
 شیشه جلو
-✅The windshield is dirty, I need to clean it.
+
+✔️The windshield is dirty, I need to clean it.
 شیشه جلوی ماشین کثیفه، باید تمیزش کنم.
 
 6⃣Trunk
