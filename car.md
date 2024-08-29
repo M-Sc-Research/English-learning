@@ -28,7 +28,7 @@ Headlight
 
 چراغ جلو
 
-The car's headlights are very bright.
+✔️The car's headlights are very bright.
 
 چراغ‌های جلوی ماشین خیلی روشن هستند.
 
