@@ -41,9 +41,12 @@ Windshield
 
 شیشه جلوی ماشین کثیفه، باید تمیزش کنم.
 
-6⃣Trunk
+Trunk
+
 صندوق عقب
+
 ✔️Put the groceries in the trunk.
+
 خریدها رو تو صندوق عقب بذار.
 
 
