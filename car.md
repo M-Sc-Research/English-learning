@@ -24,10 +24,14 @@ Always wear your seat belt while driving.
 
 درحال رانندگی همیشه کمربند ایمنی ببند.
 
-4⃣Headlight
+Headlight
+
 چراغ جلو
-✔️The car's headlights are very bright.
+
+The car's headlights are very bright.
+
 چراغ‌های جلوی ماشین خیلی روشن هستند.
+
 
 5⃣Windshield
 شیشه جلو
