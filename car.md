@@ -50,9 +50,12 @@ Trunk
 خریدها رو تو صندوق عقب بذار.
 
 
-7⃣ Rearview mirror
+Rearview mirror
+
 آینه عقب (آینه وسط ماشین)
+
 ✔️Always check your rearview mirror before reversing.
+
 قبل از دنده عقب گرفتن همیشه آینه عقب رو چک کن.
 
 8⃣Horn
