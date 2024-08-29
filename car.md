@@ -20,7 +20,7 @@ Seat belt
 
 کمربند ایمنی
 
-Always wear your seat belt while driving.
+✔️Always wear your seat belt while driving.
 
 درحال رانندگی همیشه کمربند ایمنی ببند.
 
