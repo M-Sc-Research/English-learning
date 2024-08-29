@@ -38,6 +38,7 @@ Windshield
 شیشه جلو
 
 ✔️The windshield is dirty, I need to clean it.
+
 شیشه جلوی ماشین کثیفه، باید تمیزش کنم.
 
 6⃣Trunk
