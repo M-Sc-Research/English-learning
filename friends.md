@@ -15,6 +15,7 @@
 وفاداری یکی از ویژگی‌های کلیدی یک دوست خوبه.
 
 3. Affection
+<br>
 محبت
 ✔️Their friendship was filled with affection and care.
 دوستی اون‌ها سرشار از محبت و مراقبت(توجه) بود.
