@@ -4,7 +4,9 @@
 <br>
 
 اعتماد
+
 ✔️Trust is the foundation of any lasting friendship.
+<br>
 اعتماد اساس هر دوستی پایداره.
 
 2. Loyalty
