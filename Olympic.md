@@ -1,4 +1,4 @@
-✅
+
 Olympic Games
 بازی‌های المپیک  
 <br>
