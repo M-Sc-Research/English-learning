@@ -673,7 +673,7 @@ Going to the gym can be a great way to get a full-body workout and try out diffe
 "How have you been?"
 <br>
 یعنی "این مدت چطور بودی؟" و برای پرسیدن حال کسی بعد از مدتی که ندیدیدش، استفاده میشه.
-
+<br>
 "I'll get back to you."
 <br>
 یعنی "بهت خبر می‌دم" و برای اعلام اینکه بعداً به موضوعی پاسخ می‌دید، استفاده میشه.
