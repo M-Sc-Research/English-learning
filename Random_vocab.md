@@ -677,7 +677,7 @@ Going to the gym can be a great way to get a full-body workout and try out diffe
 "I'll get back to you."
 <br>
 یعنی "بهت خبر می‌دم" و برای اعلام اینکه بعداً به موضوعی پاسخ می‌دید، استفاده میشه.
-
+<br>
 "That sounds good."
 یعنی "این خوب به نظر می‌رسه" و برای ابراز موافقت با یک پیشنهاد استفاده میشه.
 
