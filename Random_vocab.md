@@ -670,6 +670,7 @@ Going to the gym can be a great way to get a full-body workout and try out diffe
 یعنی "فقط نگاه می‌کنم، مرسی" و در هنگام خرید برای بیان اینکه نیازی به کمک ندارید، استفاده میشه.
 
 "How have you been?"
+<br>
 یعنی "این مدت چطور بودی؟" و برای پرسیدن حال کسی بعد از مدتی که ندیدیدش، استفاده میشه.
 
 "I'll get back to you."
