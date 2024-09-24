@@ -665,7 +665,7 @@ Going to the gym can be a great way to get a full-body workout and try out diffe
 "Can I get you anything?"
 <br>
 یعنی "می‌تونم چیزی برات بیارم؟" و برای پیشنهاد کمک یا سرویس به دیگران استفاده میشه.
-
+<br>
 "I'm just looking, thanks." 
 <br>
 یعنی "فقط نگاه می‌کنم، مرسی" و در هنگام خرید برای بیان اینکه نیازی به کمک ندارید، استفاده میشه.
