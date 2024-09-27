@@ -22,9 +22,9 @@
 📌a Buddhist temple 
 
 
-📌I'd like to learn more about Asian culture . 
+📌I'd like to learn more about Asian culture. 
 
-🔷• ماه ها و روزهاى هفته : 
+🔷 ماه ها و روزهاى هفته : 
 
 📌October , 9th April , Tuesday , Sunday , etc. 
 
