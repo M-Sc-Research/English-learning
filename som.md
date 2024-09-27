@@ -5,7 +5,7 @@
 
 🔷 كشورها:
 
-📌Germany, the United States , Britain , the Czech Republic , etc. 
+📌Germany, the United States, Britain, the Czech Republic, etc. 
 
 🔷 استان ها، شهرها، ايالات و مناطق : 
 
