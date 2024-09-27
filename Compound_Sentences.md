@@ -5,6 +5,7 @@
 
 ✔️ ساختار جملات مرکب
 جملات مرکب معمولاً به این صورت ساخته می‌شوند:
+<br>
 جمله مستقل{Independent Clause} + حرف ربط پایه{Coordinating Conjunction} + جمله مستقل{Independent Clause}
 
 ✔️ حروف ربط هم‌پایه (Coordinating Conjunctions)
