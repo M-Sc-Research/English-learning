@@ -34,7 +34,7 @@
 
 🔷•اسم ارگان ها و موسسات : 
 
-📌the United Nations , the National Museum 
+📌the United Nations, the National Museum 
 
 🔷•وقتى كلمه اى مثلmuseum , university , station يا hospital قسمتى از اسم ان موسسه باشد ان كلمه را هم با حروف بزرگ مينويسيم:
  
@@ -46,7 +46,7 @@
 
 📌They built a new 100 - bed hospital in the provincial capital . 
 
-📌He first joined the company in 2003 . 
+📌He first joined the company in 2003. 
 
 
 
