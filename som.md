@@ -50,13 +50,14 @@
 
 
 
-📌the Earth ( ولى نه the World ) , 
+📌the Earth ( ولى نه the World ), 
 
-📌the Third Worldla Third World country , 
-📌AIDS , 
+📌the Third Worldla Third World country, 
+
+📌AIDS, 
+
 📌CD / DVD 
 
-CDs / DVDs
 
 
 <br>
