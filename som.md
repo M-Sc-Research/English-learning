@@ -9,7 +9,7 @@
 
 🔷 استان ها، شهرها، ايالات و مناطق : 
 
-📌Tokyo , Paris , Texas , New South Wales , etc. 
+📌Tokyo, Paris, Texas, New South Wales, etc. 
 
 🔷
 
