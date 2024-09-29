@@ -25,3 +25,6 @@ cattle farm
 wakes me up => open your eyes
 <br>
 get up => to raise from your bed
+<br>
+go to bed
+<br>
