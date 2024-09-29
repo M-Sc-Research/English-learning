@@ -40,4 +40,4 @@ do the shopping => buy food at supermarket
 <br>
 go shopping => leisure activity => buy clothes, DVDs, books, etc.
 <br>
-
+stay in = stay at home
