@@ -13,3 +13,4 @@ cattle farm
 <br>
 wakes me up => open your eyes
 <br>
+get up => to raise from your bed
