@@ -1,4 +1,3 @@
-
 Corpus => ˈkôrpəs
 Deal => dēl
 Stimulating => ˈstimyəˌlādiNG
@@ -11,3 +10,5 @@ Essential
 Intended
 Pitfalls
 cattle farm
+wakes me up
+<br>
