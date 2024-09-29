@@ -28,3 +28,4 @@ get up => to raise from your bed
 <br>
 go to bed
 <br>
+go to sleep straight away
