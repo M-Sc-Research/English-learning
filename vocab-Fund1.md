@@ -34,3 +34,10 @@ go to bed
 go to sleep straight away
 <br>
 feed the cat as well
+
+<br>
+do the shopping => buy food at supermarket
+<br>
+go shopping => leisure activity => buy clothes, DVDs, books, etc.
+<br>
+
