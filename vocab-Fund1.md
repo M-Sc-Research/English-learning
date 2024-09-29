@@ -34,7 +34,6 @@ go to bed
 go to sleep straight away
 <br>
 feed the cat as well
-
 <br>
 do the shopping => buy food at the supermarket
 <br>
