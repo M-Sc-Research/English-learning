@@ -4,7 +4,7 @@ Deal => dēl
 <br>
 Stimulating => ˈstimyəˌlādiNG = exciting, breathtaking, sensational
 <br>
-Express => ikˈspres
+Express => ikˈspres = clear
 <br>
 Supplemented
 <br>
