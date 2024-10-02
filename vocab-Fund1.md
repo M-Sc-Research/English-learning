@@ -19,7 +19,7 @@ Essential = necessary, essential, required, needed
 Intended
 <br>
 
-Pitfalls
+Pitfalls = trap, snare 
 <br>
 cattle farm
 <br>
