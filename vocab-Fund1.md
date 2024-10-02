@@ -1,6 +1,6 @@
-Corpus => ˈkôrpəs
+Corpus => ˈkôrpəs = body
 <br>
-Deal => dēl
+Deal => dēl 
 <br>
 Stimulating => ˈstimyəˌlādiNG
 <br>
