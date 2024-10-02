@@ -1,50 +1,27 @@
-Corpus => ˈkôrpəs = body
-<br>
-Deal => dēl 
-<br>
-Stimulating => ˈstimyəˌlādiNG = exciting, breathtaking, sensational
-<br>
-Express => ikˈspres = clear
-<br>
-Supplemented = complete, fulfill
-<br>
-Essay
-<br>
-relevant = related
-<br>
-Providing
-<br>
-Essential = necessary, essential, required, needed
-<br>
-Intended
-<br>
-
-Pitfalls = trap, snare 
-<br>
-cattle farm
-<br>
-wakes me up => open your eyes
-<br>
-If I have a late night, I try to get some sleep in the afternoon.
-<br>
-get up => to raise from your bed
-<br>
-she doesn't bother to cook
-go to bed
-<br>
-go to sleep straight away
-<br>
-feed the cat as well
-<br>
-do the shopping => buy food at the supermarket
-<br>
-go shopping => leisure activity => buy clothes, DVDs, books, etc.
-<br>
-stay in = stay at home
-<br>
-eat out once a week
-<br>
-come round
-<br>
-chat 
-<br>
+| Word/Phrase                     | Definition/Meaning                            |  
+|----------------------------------|----------------------------------------------|  
+| Corpus                           | ˈkôrpəs = body                               |  
+| Deal                             | dēl                                          |  
+| Stimulating                      | ˈstimyəˌlādiNG = exciting, breathtaking, sensational |  
+| Express                          | ikˈspres = clear                             |  
+| Supplemented                     | complete, fulfill                            |  
+| Essay                            |                                              |  
+| Relevant                         | related                                      |  
+| Providing                        |                                              |  
+| Essential                        | necessary, essential, required, needed      |  
+| Intended                         |                                              |  
+| Pitfalls                         | trap, snare                                  |  
+| Cattle farm                     |                                              |  
+| Wakes me up                     | open your eyes                               |  
+| If I have a late night, I try to get some sleep in the afternoon. | |  
+| Get up                           | to raise from your bed                       |  
+| She doesn't bother to cook       |                                              |  
+| Go to bed                       |                                              |  
+| Go to sleep straight away       |                                              |  
+| Feed the cat as well            |                                              |  
+| Do the shopping                 | buy food at the supermarket                  |  
+| Go shopping                     | leisure activity => buy clothes, DVDs, books, etc. |  
+| Stay in                         | stay at home                                  |  
+| Eat out once a week            |                                              |  
+| Come round                      |                                              |  
+| Chat                             |                                              |
