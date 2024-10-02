@@ -5,6 +5,7 @@
 ✅ کلمه "Job" به معنای یک موقعیت یا شغل خاصه. وقتی در مورد یک کار مشخص صحبت می‌کنیم، از "job" استفاده می‌کنیم.
 <br>
 ⭐️I have a new job at a marketing company.
+<br>
 من یک کار جدید در یک شرکت بازاریابی دارم.
 ⭐️She's looking for a job as a teacher.
 اون به دنبال شغل معلمیه.
