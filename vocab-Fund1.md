@@ -6,15 +6,15 @@ Stimulating => ˈstimyəˌlādiNG = exciting, breathtaking, sensational
 <br>
 Express => ikˈspres = clear
 <br>
-Supplemented
+Supplemented = complete, fulfill
 <br>
 Essay
 <br>
-relevant
+relevant = related
 <br>
 Providing
 <br>
-Essential
+Essential = necessary, essential, required, needed
 <br>
 Intended
 <br>
