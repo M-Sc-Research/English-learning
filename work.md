@@ -7,6 +7,7 @@
 ⭐️I have a new job at a marketing company.
 <br>
 من یک کار جدید در یک شرکت بازاریابی دارم.
+<br>
 ⭐️She's looking for a job as a teacher.
 اون به دنبال شغل معلمیه.
 
