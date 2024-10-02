@@ -2,7 +2,7 @@ Corpus => ˈkôrpəs = body
 <br>
 Deal => dēl 
 <br>
-Stimulating => ˈstimyəˌlādiNG
+Stimulating => ˈstimyəˌlādiNG = exciting, breathtaking, sensational
 <br>
 Express => ikˈspres
 <br>
