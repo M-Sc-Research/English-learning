@@ -41,3 +41,4 @@
 39. She has a pensive, almost sad **look about** her.  
 40. The famous **rock band** in the 1980s was Queen.  
 41. She **wears her hair** in a ponytail.
+42. Go straight on and then turn left the bank is the corner of the street you can't miss it.
