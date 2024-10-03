@@ -57,3 +57,34 @@ The phrase "looks about meaning" is not clearly defined. It seems to combine the
 
 "Looks about" can mean to examine or search for something, while "meaning" refers to the significance or purpose of something. Together, the phrase might suggest the act of exploring or searching for significance. However, without more context, its exact interpretation remains uncertain. It might have a specific meaning in a particular field, but additional information is needed for clarity.
 ```
+
+
+# Lesson 3
+
+My version:
+Hesam my ex-boyfriend was a body-builder. He always wears boots with jeans and also he
+wears a tight T-shirt to show his muscles. For his birthday I bought a necklace and ring for
+him and he always put it even when we broke up.
+In summer he wears glasses with a hat and loose pants you know the ones with some hip-hop
+guy wearing.
+One day we went to a party with each other and he was handsome. I remember he wore a fit
+suit with a black tie and I wore a long black dress, shoulder bag with sandals and
+because that night was cold I wore a windbreaker on it. I wanted to wear a shirt with a short
+skirt but he said that was not comfortable for me and you should try on the dress He knows
+me.
+After two years of breaking up with Hesam, I wanted to connect with a reddish-blonde guy with
+casually dressed, a guy always with shorts and a loose jacket and sneakers but Hesam, had
+made me used to relationships with handsome men.
+
+AI version:
+Hesam was my ex-boyfriend, and he used to be a bodybuilder. He had a distinctive(specific) style of
+wearing boots with jeans and tight T-shirts to show off his muscles. I once bought him a necklace
+and a ring for his birthday, and even after we broke up, he continued wearing them. In the summer,
+he would wear glasses, a hat, and loose pants that were reminiscent of hip-hop fashion.
+On one occasion, we attended a party together and Hesam looked quite handsome. He had chosen
+to wear a fitted suit with a black tie, while I wore a long black dress with a shoulder bag and sandals.
+Since it was a cold night, I also wore a windbreaker on top. Initially, I wanted to wear a shirt with a
+short skirt, but Hesam suggested that I try the dress instead. He knew me well.
+After two years of breaking up with Hesam, I found myself attracted to a reddish-blonde guy who
+often dressed casually in shorts, a loose jacket, and sneakers. However, Hesam had set the
+standard for me, and I had become accustomed to being with handsome men.
