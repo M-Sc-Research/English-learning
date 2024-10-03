@@ -49,14 +49,14 @@ adopt to express their style, cultural identity, or fashion preferences.<br>
 ● When someone "wears their hair" in a certain way, they are essentially choosing a
 particular hairstyle that suits their face shape, hair texture, and desired look. This
 could involve cutting, coloring, styling, or accessorizing their hair to achieve the
-desired appearance.
+desired appearance.<br>
 ● For example, someone might "wear their hair long and straight," indicating that they
 have long, uncurled hair that falls naturally. Alternatively, they could "wear their hair
-short and curly," describing a shorter hairstyle with defined curls or waves.
+short and curly," describing a shorter hairstyle with defined curls or waves.<br>
 ● The phrase "wear one's hair" can also extend to more elaborate hairstyles, such as
 braids, buns, ponytails, or updos. It encompasses the entire spectrum of hairdressing
 techniques and styles that people adopt to enhance their overall appearance and
-self-expression.
+self-expression.<br>
 ● In essence, "wearing one's hair" is a way for individuals to present themselves to the
 world and communicate their personal style, preferences, and even cultural heritage
-through their chosen hairstyle.
+through their chosen hairstyle.<br>
