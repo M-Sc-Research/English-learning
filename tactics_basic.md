@@ -61,7 +61,7 @@ The phrase "looks about meaning" is not clearly defined. It seems to combine the
 
 # Lesson 3
 
-My version:
+**My version:**
 Hesam my ex-boyfriend was a body-builder. He always wears boots with jeans and also he
 wears a tight T-shirt to show his muscles. For his birthday I bought a necklace and ring for
 him and he always put it even when we broke up.
@@ -76,7 +76,7 @@ After two years of breaking up with Hesam, I wanted to connect with a reddish-bl
 casually dressed, a guy always with shorts and a loose jacket and sneakers but Hesam, had
 made me used to relationships with handsome men.
 
-AI version:
+**AI version:**
 Hesam was my ex-boyfriend, and he used to be a bodybuilder. He had a distinctive(specific) style of
 wearing boots with jeans and tight T-shirts to show off his muscles. I once bought him a necklace
 and a ring for his birthday, and even after we broke up, he continued wearing them. In the summer,
