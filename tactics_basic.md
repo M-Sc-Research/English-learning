@@ -42,3 +42,21 @@
 40. The famous **rock band** in the 1980s was Queen.  
 41. She **wears her hair** in a ponytail.
 42. Go straight on and then turn left the bank is the corner of the street you can't miss it.
+
+> The phrase "wear one's hair" refers to the way a person styles or arranges their hair
+on their head. It encompasses various hairstyles, cuts, and treatments that individuals
+adopt to express their style, cultural identity, or fashion preferences.
+● When someone "wears their hair" in a certain way, they are essentially choosing a
+particular hairstyle that suits their face shape, hair texture, and desired look. This
+could involve cutting, coloring, styling, or accessorizing their hair to achieve the
+desired appearance.
+● For example, someone might "wear their hair long and straight," indicating that they
+have long, uncurled hair that falls naturally. Alternatively, they could "wear their hair
+short and curly," describing a shorter hairstyle with defined curls or waves.
+● The phrase "wear one's hair" can also extend to more elaborate hairstyles, such as
+braids, buns, ponytails, or updos. It encompasses the entire spectrum of hairdressing
+techniques and styles that people adopt to enhance their overall appearance and
+self-expression.
+● In essence, "wearing one's hair" is a way for individuals to present themselves to the
+world and communicate their personal style, preferences, and even cultural heritage
+through their chosen hairstyle.
