@@ -43,8 +43,8 @@
 41. She **wears her hair** in a ponytail.
 42. Go straight on and then turn left the bank is the corner of the street you can't miss it.
 
-> "Wear one's hair" means how a person styles their hair. It includes different hairstyles, cuts, and treatments that reflect their personal style or culture. 
+`` "Wear one's hair" means how a person styles their hair. It includes different hairstyles, cuts, and treatments that reflect their personal style or culture. 
 
 When someone chooses a hairstyle, they consider their face shape and hair type. For example, they might have long straight hair or short curly hair. 
 
-This phrase also includes styles like braids, buns, or ponytails. Overall, it’s a way for people to show their style and personality through their hair.
+This phrase also includes styles like braids, buns, or ponytails. Overall, it’s a way for people to show their style and personality through their hair. S``
