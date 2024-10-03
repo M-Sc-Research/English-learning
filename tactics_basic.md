@@ -116,3 +116,37 @@ At 10 PM, I return to the dorm to shower and study. Then, it depends on what I n
 for tomorrow's class. I might need to study for an exam or work on some projects. My father
 works the night shift, so he often calls me during the day. I also stay up late and have dinner
 twice. After everything, I go to bed at 3 AM
+
+
+# Unit 5
+1. I am going to the airport for my work trip.
+Workers in Qatar airport are very nice.
+2. I had a dental appointment but I can't arrive at it.
+3. Last summer in our uncle's garden we had a barbecue with each other.
+4. The best present is the book for me.
+5. To confirm your interview please call Mr. Bob.
+Mr. Baker's assistant telephoned to confirm his appointment with the chairman.
+6. This month I have lots of exams.
+7. The first Emam in Islam is Ali the second Emam is Hasan and the third Emam is Hossein
+Emam Ali is Hossein and Hassan's father.
+The fourth Emam was Sajad and after that came Mohammad Bagher.
+Mohammad Bagher is the fifth Emam in Islam.
+The sixth was Mossaye Kazem.
+And the eighth was Emam Reza who was popular in Iran.
+The ninth was Javad, the tenth was Hadi, and the eleventh was Asgari who was the twelfth
+father.
+The twelfth is Mahdi who is alive but hides from individuals.
+8. I need to leave Iran for technical improvement.
+9. I am studying artificial intelligence and soft computing for a master's degree at Semnan
+University.
+10. I want to go to Rasht for vacation.
+11. A month ago I went to Tehran and saw my family.
+12. Are you free this weekend to watch a movie?
+13. I book a train for the thirteenth to go home.
+14. I don't like a family party I prefer to watch a movie with my dad.
+15. How long are you staying at Semnan in the next two months?
+16. I think I can’t back to Tehran it's not until next month
+I think I can't go back to Tehran until next month.
+17. This month I should present four projects for the soft computing lesson.
+18. When did you get here to study mathematics?
+19. Will you be here long for an examination of cancer?
