@@ -45,7 +45,7 @@
 
 > The phrase "wear one's hair" refers to the way a person styles or arranges their hair
 on their head. It encompasses various hairstyles, cuts, and treatments that individuals
-adopt to express their style, cultural identity, or fashion preferences.
+adopt to express their style, cultural identity, or fashion preferences.<br>
 ● When someone "wears their hair" in a certain way, they are essentially choosing a
 particular hairstyle that suits their face shape, hair texture, and desired look. This
 could involve cutting, coloring, styling, or accessorizing their hair to achieve the
