@@ -192,3 +192,15 @@ The rooms are fully booked.
 They’re putting on warm clothes.
 Don’t you just love this weather?
 My dream is to be a champion skier.
+If you are looking for shoes to wear in the most rugged, extreme weather conditions, then
+Flexors are the ones for you. Their revolutionary design keeps rain away from your feet while
+at the same time letting them breathe naturally. The thermal lining allows users to wear the
+shoes in sub-zero conditions, and the heavy-duty cushioned soles keep you in comfort
+wherever you walk. These practical shoes are available now for just $129.99. Go to
+www.flexorshoes.com to get yours now.
+I wonder if you can help me.
+Sounds good
+How about the climate?
+There is a beautiful skyline.
+I’ve been feeling really tired and run down.
+I thought it was supposed to be dangerous
