@@ -91,7 +91,7 @@ standard for me, and I had become accustomed to being with handsome men.
 
 
 # Unit 4
-My version:
+**My version:**
 When I have class, I get up at quarter to 7, then I go to the university by bus. Sometimes I walk
 to class, and on the bus, I text my family or chat with friends. Other times, I read some
 newspapers on Telegram.
@@ -103,7 +103,8 @@ At twenty-two, I go back to the dorm to shower and study. Then, it depends on wh
 do for tomorrow's class. I may need to study for an exam or work on some projects. My father
 works the night shift, so he often calls me during the night. I also stay up late and have dinner
 twice. After everything, I go to bed at 3 AM.
-Ai version:
+
+**Ai version:**
 When I have class, I wake up at 6:45 AM, then I take the bus to the university. Sometimes I walk
 to class, and on the bus, I message my family or chat with friends. Other times, I read
 newspapers on Telegram.
