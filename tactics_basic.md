@@ -150,3 +150,45 @@ I think I can't go back to Tehran until next month.
 17. This month I should present four projects for the soft computing lesson.
 18. When did you get here to study mathematics?
 19. Will you be here long for an examination of cancer?
+
+
+
+<br>
+
+Script- tactics for testing
+Which statement about the girls is correct?
+What does Mehri’s son look like?
+What’s the woman carrying? She’s carrying a purse
+I’d like to check in.
+He is wearing a striped T-shirt.
+The man is holding the handles.
+He is blowing out the candles.
+They’re shoveling sand into the hole.
+He’s examining the patient.
+He is folding the paper.
+He’s playing an instrument.
+He’s lifting heavy weights.
+What grade are you in now Jack? I just started in the fifth
+M: How did you get that amazing job working at the aquarium?
+W: I studied oceanography, and after I finished I traveled to Australia and worked as a tour guide at the
+Great Barrier Reef for a year. I met the aquarium owner over there and applied for the job when I came
+back. I've been there for five months now.
+She is going to attend the school carnival
+I’ve nearly finished moving in.
+Where do you think I should put the plant?
+I haven’t been out for ages.
+M: Do these glasses go in the kitchen cabinet, or the cabinet in the next room?
+W: Water glasses go in the living room cabinet but you can put the juice glasses in there.
+M: Why not just keep them in the same place?
+W: The water glasses are too tall for that
+cabinet. See?
+That must have been pretty crazy for you growing up.
+I was thinking of spending no more than $1500.
+I don’t think we can go that low
+Have you decided what you want to eat yet?
+Can you get me a discount?
+I get sick eating from a street vendor.
+The rooms are fully booked.
+They’re putting on warm clothes.
+Don’t you just love this weather?
+My dream is to be a champion skier.
