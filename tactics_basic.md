@@ -47,4 +47,4 @@
 
 When someone chooses a hairstyle, they consider their face shape and hair type. For example, they might have long straight hair or short curly hair. 
 
-This phrase also includes styles like braids, buns, or ponytails. Overall, it’s a way for people to show their style and personality through their hair. S``
+This phrase also includes styles like braids, buns, or ponytails. Overall, it’s a way for people to show their style and personality through their hair. ``
