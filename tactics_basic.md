@@ -33,7 +33,7 @@
 31. I like some **kids** not all of them.  
 32. My body has **long straight** hair but he is **short** with small **shoulder-length**. He looks like a teen but he is thirty.  
 33. My **twenties** have lots of stories with different friends and people.  
-34. This brand of Samsung has about **average price**. "This Samsung brand has an average price point."  
+34. This brand of Samsung has about**average price**. "This Samsung brand has an average price point."  
 35. When a cigarette is smoked, the color of its filter changes to **dark brown**.  
 36. The mathematics in machine learning **drives me crazy**.  
 37. If the deceased person has **light brown hair**, then it means that she is his daughter.  
