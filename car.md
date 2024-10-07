@@ -4,6 +4,7 @@ Steering wheel
 
 فرمون
 
+
 ✔️Turn the steering wheel to the right.
 
 فرمون رو به سمت راست بچرخون.
