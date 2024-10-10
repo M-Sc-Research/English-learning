@@ -161,10 +161,16 @@ I think I can't go back to Tehran until next month.
 Which statement about the girls is correct?
 <br><br>
 What does Mehri’s son look like?
+<br><br>
 What’s the woman carrying? She’s carrying a purse
+<br><br>
 I’d like to check in.
+<br><br>
 He is wearing a striped T-shirt.
+<br><br>
 The man is holding the handles.
+<br><br>
+
 He is blowing out the candles.
 They’re shoveling sand into the hole.
 He’s examining the patient.
