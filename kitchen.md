@@ -37,6 +37,7 @@ Oven
 <br>
 Microwave
 مایکروویو
+<br>
 Blender
 مخلوط‌کن
 Toaster
