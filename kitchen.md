@@ -40,6 +40,7 @@ Microwave
 <br>
 Blender
 مخلوط‌کن
+<br>
 Toaster
 توستر
 Kettle
