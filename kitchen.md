@@ -43,6 +43,7 @@ Blender
 <br>
 Toaster
 توستر
+<br>
 Kettle
 کتری
 Whisk
