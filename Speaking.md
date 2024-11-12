@@ -45,6 +45,7 @@ A: We should leave early to avoid traffic.
 B: Yeah, that makes sense.
 الف: باید زودتر بریم که تو ترافیک نمونیم.
 ب: آره، منطقیه.
+<br>
 
 5. "I'm starving!"
 یعنی "از گرسنگی مردم!"
