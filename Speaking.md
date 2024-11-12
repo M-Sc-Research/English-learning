@@ -13,6 +13,7 @@ B: Just let me know if you need help with anything.
 ب: فقط بهم بگو اگه کمک خواستی.
 
 2. "Hang on a second."
+   <br>
 یعنی "یه لحظه صبر کن."
 
 ⭐ مثال:
