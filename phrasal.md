@@ -33,7 +33,7 @@ B: It’s up to me this time.<br>
 
 ✅مثال:
 A: Can you email the report to the manager?
-B: I’m on it!
+B: I’m on it!<br>
 الف: می‌تونی گزارش رو برای مدیر ایمیل کنی؟
 ب: انجامش می‌دم!
 
