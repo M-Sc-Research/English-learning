@@ -14,7 +14,7 @@ B: Fingers crossed for you!<br>
 
 ✅مثال:
 A: Do you want to join the dance class?
-B: Nah, it’s not my thing.
+B: Nah, it’s not my thing.<br>
 الف: می‌خوای تو کلاس رقص شرکت کنی؟
 ب: نه، تو سبک من نیست.
 
