@@ -24,7 +24,7 @@ B: Nah, it’s not my thing.<br>
 
 ✅مثال:
 A: Who’s deciding where to go for dinner?
-B: It’s up to me this time.
+B: It’s up to me this time.<br>
 الف: کی تصمیم می‌گیره برای شام کجا بریم؟
 ب: این بار تصمیم با منه.
 
