@@ -46,4 +46,3 @@ B: Nah, I’m over it now.
 ب: نه، دیگه برام مهم نیست.
 
 
-✈️@lingano_com
