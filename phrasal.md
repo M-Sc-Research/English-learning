@@ -5,7 +5,7 @@
 
 ✅مثال:
 A: I have a big test tomorrow.
-B: Fingers crossed for you!
+B: Fingers crossed for you!<br>
 الف: فردا امتحان بزرگ دارم.
 ب: ایشالا موفق بشی!
 
