@@ -28,4 +28,4 @@
 
 15. After while = Good bye till later; See you later
 
-16. After while croco
+16. After while crocodile 
