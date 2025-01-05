@@ -1,5 +1,5 @@
-Absolutely = a strong affirmation 
+1. Absolutely = a strong affirmation 
 <br>
-Absolutely not = a strong denial or refusal
+2. Absolutely not = a strong denial or refusal
 <br>
-Affirmation
+3. Affirmation
