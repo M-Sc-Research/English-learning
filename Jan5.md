@@ -19,3 +19,5 @@
 10. Adios = Good bye 
 
 11. casual 
+
+12. Afraid not
