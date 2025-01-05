@@ -21,3 +21,11 @@
 11. casual 
 
 12. Afraid not
+
+13. Afraid so
+
+14. Afternoon 
+
+15. After while = Good bye till later; See you later
+
+16. After while croco
