@@ -37,3 +37,7 @@
 19. encouraging 
 
 20. go ahead 
+
+21. one-self
+
+
