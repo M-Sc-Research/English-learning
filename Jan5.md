@@ -8,4 +8,10 @@
 
 5. refusal 
 
-6. Act your age 
+6. Act your age = behave more maturely 
+
+7. maturely
+
+8. pinching 
+
+9. come on
