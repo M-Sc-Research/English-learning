@@ -1,4 +1,4 @@
-Absolutely 
+Absolutely = a strong affirmation 
 <br>
 Absolutely not 
 <br>
