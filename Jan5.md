@@ -15,3 +15,5 @@
 8. pinching 
 
 9. come on
+
+10. Adios = Good bye 
