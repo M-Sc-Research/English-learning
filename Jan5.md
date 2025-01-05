@@ -42,4 +42,6 @@
 
 22. indicating 
 
+23. stepped back
+
 
