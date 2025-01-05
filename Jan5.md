@@ -34,3 +34,4 @@
 
 18. After you
 
+19. encouraging 
