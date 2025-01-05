@@ -17,3 +17,5 @@
 9. come on
 
 10. Adios = Good bye 
+
+11. casual 
