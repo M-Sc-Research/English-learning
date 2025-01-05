@@ -40,4 +40,6 @@
 
 21. one-self
 
+22. indicating 
+
 
