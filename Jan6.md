@@ -15,4 +15,4 @@
 15. Turn a profit
 16. I suppose
 17. We made a nice profit, all things considered 
-18. 
+18. Allow me
