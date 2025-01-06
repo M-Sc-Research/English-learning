@@ -21,4 +21,5 @@
 21. Pulling out
 22. gold-plated
 23. lighter
-24. 
+24. Announcing
+25. 
