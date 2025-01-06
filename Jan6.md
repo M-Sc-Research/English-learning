@@ -7,7 +7,7 @@
 7. Clearly
 8. Available
 9. Approached
-10. Slightly
-11. go ahead
-12. oneself
+10. Sightly
+11. Go ahead
+12. Oneself
 13. Teasing
