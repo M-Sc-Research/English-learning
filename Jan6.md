@@ -8,3 +8,5 @@
 8. Available
 9. Approached
 10. Slightly
+11. go ahead
+12. oneself
