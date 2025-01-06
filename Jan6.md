@@ -23,3 +23,4 @@
 23. lighter
 24. Announcing
 25. Assist
+26. lighting a cigarette
