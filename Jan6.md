@@ -3,4 +3,4 @@
 3. All in all
 4. All things considered
 5. on balance
-6. 
+6. transition 
