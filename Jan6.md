@@ -30,3 +30,4 @@
 30. acquiescence
 31. All right
 32. bring me
+33. I get some of it
