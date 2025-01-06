@@ -14,3 +14,5 @@
 14. Quite
 15. Turn a profit
 16. I suppose
+17. We made nice profit
+18. 
