@@ -4,4 +4,4 @@
 4. All things considered
 5. on balance
 6. transition = transfer
-7. 
+7. clearly
