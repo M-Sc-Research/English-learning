@@ -22,4 +22,4 @@
 22. gold-plated
 23. lighter
 24. Announcing
-25. 
+25. Assist
