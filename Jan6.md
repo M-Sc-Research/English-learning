@@ -25,3 +25,5 @@
 25. Assist
 26. lighting a cigarette
 27. on mit
+28. indication
+29. agreement
