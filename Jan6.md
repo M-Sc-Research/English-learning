@@ -5,3 +5,4 @@
 5. on balance
 6. transition = transfer
 7. clearly
+8. available
