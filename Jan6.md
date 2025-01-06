@@ -7,3 +7,4 @@
 7. clearly
 8. available
 9. approached
+10. slightly
