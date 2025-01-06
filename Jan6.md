@@ -6,3 +6,4 @@
 6. transition = transfer
 7. clearly
 8. available
+9. approached
