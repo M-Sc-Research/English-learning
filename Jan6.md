@@ -14,5 +14,5 @@
 14. Quite
 15. Turn a profit
 16. I suppose
-17. We made a nice profit, 
+17. We made a nice profit, all things considered 
 18. 
