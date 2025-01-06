@@ -18,3 +18,7 @@
 18. Allow me
 19. Permit me
 20. grabbing the doorknob
+21. Pulling out
+22. gold-plated
+23. lighter
+24. 
