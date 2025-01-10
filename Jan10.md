@@ -10,6 +10,7 @@
 ✔️He says he's tired.
 
 فعل "Tell" وقتی استفاده می‌شه که بخوایم مستقیماً به کسی چیزی بگیم. بعد از "tell" معمولاً باید مشخص کنیم که به چه کسی چیزی گفته شده:
+<br>
 ✔️She told me the story.
 ✔️He tells them to be quiet.
 
