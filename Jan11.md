@@ -30,11 +30,3 @@ Fisher denies the allegations (says the accusations are not true) and clearly st
 (به اثبات رساندن ادعاهايش)
 
 
-#Collocations 
-#Claiming
-#Denying
-#SpeakingIELTS 
-#WritingTask2 
-#1000COLLOCATIONS_IN10MINUTES_ADAY
-
-🤖اموزش رایگان زبان از طریق بات تلگرام
