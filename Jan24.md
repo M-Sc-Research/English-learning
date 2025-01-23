@@ -43,3 +43,21 @@ A: They’re raising the rent again.
 B: You’ve got to be kidding me!
 الف: باز دوباره دارن اجاره رو می‌برن بالا.
 ب: داری شوخی می‌کنی؟!
+
+What's your birth order?!
+فرزند چندم خانواده هستی؟!
+
+1⃣I'm an only child.
+من تک فرزندم.
+
+2⃣I'm the eldest child.
+من فرزند اول(ارشد) هستم.
+
+3⃣I'm the second born.
+من فرزند دوم هستم.
+
+4⃣I'm the middle child.
+من فرزند وسط هستم.
+
+5⃣I'm the baby of the family.
+من فرزند آخر (ته تغاری) هستم.
