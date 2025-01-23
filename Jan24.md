@@ -61,3 +61,10 @@ What's your birth order?!
 
 5⃣I'm the baby of the family.
 من فرزند آخر (ته تغاری) هستم.
+
+
+
+
+> Don't sleep on it
+> نادیده نگیرش  
+> 
