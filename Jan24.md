@@ -3,7 +3,7 @@
 یعنی "گله‌ای ندارم" یا "همه چی اوکیه."
 
 ✅مثال:
-A: How’s life treating you?
+A: How’s life treating you?<br>
 B: Can’t complain, everything’s good.
 الف: زندگی چطوره؟
 ب: گله‌ای ندارم، همه چی خوبه.
