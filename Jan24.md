@@ -5,7 +5,7 @@
 ✅مثال:
 A: How’s life treating you?<br>
 B: Can’t complain, everything’s good.<br>
-الف: زندگی چطوره؟
+الف: زندگی چطوره؟<br>
 ب: گله‌ای ندارم، همه چی خوبه.
 
 2. "What’s the rush?"
