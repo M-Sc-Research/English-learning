@@ -4,7 +4,7 @@
 
 ✅مثال:
 A: How’s life treating you?<br>
-B: Can’t complain, everything’s good.
+B: Can’t complain, everything’s good.<br>
 الف: زندگی چطوره؟
 ب: گله‌ای ندارم، همه چی خوبه.
 
