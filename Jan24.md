@@ -21,7 +21,7 @@ B: Relax, what’s the rush?<br>
 یعنی "واضحه!" یا "نیازی به فکر کردن نداره."
 
 ✅مثال:
-A: Should we take the free upgrade?
+A: Should we take the free upgrade?<br>
 B: Of course! It’s a no-brainer.
 الف: آپگرید رایگان رو قبول کنیم؟
 ب: معلومه! نیاز به فکر نداره.
