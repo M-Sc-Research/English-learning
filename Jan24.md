@@ -13,7 +13,7 @@ B: Can’t complain, everything’s good.<br>
 
 ✅مثال:
 A: Hurry up, we need to leave now!<br>
-B: Relax, what’s the rush?
+B: Relax, what’s the rush?<br>
 الف: عجله کن، باید همین الآن بریم!
 ب: آروم باش، چرا انقدر عجله داری؟
 
