@@ -8,7 +8,7 @@ B: Can’t complain, everything’s good.<br>
 الف: زندگی چطوره؟<br>
 ب: گله‌ای ندارم، همه چی خوبه.
 
-2. "What’s the rush?"
+2. "What’s the rush?"<br>
 یعنی "چرا عجله داری؟"
 
 ✅مثال:
