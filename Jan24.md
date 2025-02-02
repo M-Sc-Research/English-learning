@@ -12,7 +12,7 @@ B: Can’t complain, everything’s good.<br>
 یعنی "چرا عجله داری؟"
 
 ✅مثال:
-A: Hurry up, we need to leave now!
+A: Hurry up, we need to leave now!<br>
 B: Relax, what’s the rush?
 الف: عجله کن، باید همین الآن بریم!
 ب: آروم باش، چرا انقدر عجله داری؟
