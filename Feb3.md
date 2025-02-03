@@ -57,4 +57,3 @@ B: That’s the last straw! I’m talking to the manager.
 ب: دیگه بسه! باید با مدیر صحبت کنم.
 
 
-✈️@lingano_com
