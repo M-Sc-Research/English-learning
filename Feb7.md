@@ -44,5 +44,3 @@ A: Did you hear what they said about you?
 B: Honestly, I couldn’t care less.
 الف: شنیدی پشت سرت چی گفتن؟
 ب: راستش اصلاً برام مهم نیست.
-
-✅@lingano_com
