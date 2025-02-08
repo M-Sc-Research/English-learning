@@ -5,7 +5,7 @@
 پله‌های ترقی در شرکت رو طی کردن<br>
 (پیشرفت کردن در شغل و ارتقای موقعیت کاری)
 
-✅Sarah is working hard to climb the corporate ladder and become a manager.
+✅Sarah is working hard to climb the corporate ladder and become a manager.<br>
 سارا سخت کار می‌کنه تا در شرکت پیشرفت کنه و مدیر بشه.
 
 2️⃣Bring something to the table
