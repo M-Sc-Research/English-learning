@@ -8,7 +8,7 @@
 ✅Sarah is working hard to climb the corporate ladder and become a manager.<br>
 سارا سخت کار می‌کنه تا در شرکت پیشرفت کنه و مدیر بشه.
 
-2️⃣Bring something to the table
+2️⃣Bring something to the table<br>
 چیزی برای ارائه داشتن
 (مهارت یا ارزش خاصی به یک تیم یا شرکت اضافه کردن)
 
