@@ -2,7 +2,7 @@
 
 1️⃣Climb the corporate ladder 
 <br>
-پله‌های ترقی در شرکت رو طی کردن
+پله‌های ترقی در شرکت رو طی کردن<br>
 (پیشرفت کردن در شغل و ارتقای موقعیت کاری)
 
 ✅Sarah is working hard to climb the corporate ladder and become a manager.
