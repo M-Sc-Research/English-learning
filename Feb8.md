@@ -25,7 +25,7 @@
 4️⃣Think outside the box 
 متفاوت و خلاقانه فکر کردن
 
-✅To solve this problem, we need to think outside the box.
+✅To solve this problem, we need to think outside the box.<br>
 برای حل این مشکل، باید خلاقانه فکر کنیم.
 
 5️⃣Pull your weight
