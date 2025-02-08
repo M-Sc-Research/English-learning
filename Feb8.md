@@ -33,5 +33,3 @@
 ✅If everyone pulls their weight, we’ll finish the project on time.
 اگر همه به درستی کارشون رو انجام بدند، پروژه رو به‌موقع تموم می‌کنیم.
 
-
-❗️@lingano_com
