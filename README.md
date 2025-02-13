@@ -25,8 +25,7 @@ Welcome to the English Learning Repository! This project is designed to help lan
 - **tactics-basic.pdf**: A basic tactics document for improving language skills.  
 - **weather.md**: Vocabulary and phrases related to weather conditions.  
  
-## Getting Involved  
-
+## Getting Involved  
 Feel free to explore the resources, contribute additional content or exercises, and engage in discussions related to English learning. Together, we can create an enriching environment for language acquisition.  
 
 Happy learning!
