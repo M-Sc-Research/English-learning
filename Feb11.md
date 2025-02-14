@@ -7,6 +7,6 @@
 لازم نیست نگران باشی!<br>
 ✅No need to thank me!<br>
 لازم نیست ازم تشکر کنی!<br>
-✅No need to rush!
+✅No need to rush!<br>
 لازم نیست عجله کنی!
 
