@@ -4,7 +4,7 @@
 یعنی "بی‌خیال می‌شم" یا "نه، مرسی!"<br>
 
 ✅مثال:<br>
-A: Do you want some cake?
+A: Do you want some cake?<br>
 B: Nah, I’ll pass. I’m full.
 الف: کیک می‌خوای؟
 ب: نه، بی‌خیال. سیرم.
