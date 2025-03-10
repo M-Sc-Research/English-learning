@@ -6,7 +6,7 @@
 ✅مثال:<br>
 A: Do you want some cake?<br>
 B: Nah, I’ll pass. I’m full.<br>
-الف: کیک می‌خوای؟
+الف: کیک می‌خوای؟<br>
 ب: نه، بی‌خیال. سیرم.
 
 2️⃣"It’s not a big deal."
