@@ -7,7 +7,7 @@
 A: Do you want some cake?<br>
 B: Nah, I’ll pass. I’m full.<br>
 الف: کیک می‌خوای؟<br>
-ب: نه، بی‌خیال. سیرم.
+ب: نه، بی‌خیال. سیرم.<br>
 
 2️⃣"It’s not a big deal."
 یعنی "چیز مهمی نیست" یا "مشکلی نداره."
