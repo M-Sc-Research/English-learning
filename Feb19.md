@@ -3,7 +3,7 @@
 ⏯️"I’ll pass."<br>
 یعنی "بی‌خیال می‌شم" یا "نه، مرسی!"<br>
 
-✅مثال:
+✅مثال:<br>
 A: Do you want some cake?
 B: Nah, I’ll pass. I’m full.
 الف: کیک می‌خوای؟
