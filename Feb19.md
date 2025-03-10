@@ -12,7 +12,7 @@ B: Nah, I’ll pass. I’m full.<br>
 2️⃣"It’s not a big deal."<br>
 یعنی "چیز مهمی نیست" یا "مشکلی نداره."<br>
 
-✅مثال:
+✅مثال:<br>
 A: Sorry I’m late!
 B: Don’t worry, it’s not a big deal.
 الف: ببخشید دیر کردم!
