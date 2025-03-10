@@ -5,7 +5,7 @@
 
 ✅مثال:<br>
 A: Do you want some cake?<br>
-B: Nah, I’ll pass. I’m full.
+B: Nah, I’ll pass. I’m full.<br>
 الف: کیک می‌خوای؟
 ب: نه، بی‌خیال. سیرم.
 
