@@ -19,7 +19,8 @@ Welcome to the English Learning Repository! This project is designed to help lan
 - **simple present**: Overview of the simple present tense.  
 - **som**: A file focusing on "some" and "any" usage in sentences.  
 - **tactics-basic.pdf**: A basic tactics document for improving language skills.  
-- **weather.md**: Vocabulary and phrases related to weather conditions.  
+- **weather.md**: Vocabulary and phrases related to weather conditions. 
+ 
  
 ## Getting Involved  
 Feel free to explore the resources, contribute additional content or exercises, and engage in discussions related to English learning. Together, we can create an enriching environment for language acquisition.  
