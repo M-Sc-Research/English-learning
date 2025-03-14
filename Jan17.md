@@ -6,7 +6,8 @@
 ✅مثال:  
    - A: I covered your shift today.  
    - B: Thanks a lot! I owe you one.  
-   - الف: امروز شیفتت رو پوشش دادم.  
+   - الف: امروز شیفتت رو پوشش دادم.
+   - 
    - ب: خیلی ممنون! یه دِین بهت دارم.  
 
 2. "You’ve got this."  
