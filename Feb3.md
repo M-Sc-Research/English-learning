@@ -20,6 +20,7 @@ B: Go ahead, I’m all ears.
 یعنی "بیخیال!" یا "ولم کن دیگه!"
 
 ✅مثال:
+
 A: You’re late again!
 B: Oh, come on, give me a break! Traffic was crazy.
 الف: دوباره دیر کردی!
