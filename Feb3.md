@@ -22,6 +22,7 @@ B: Go ahead, I’m all ears.
 ✅مثال:
 
 A: You’re late again!
+
 B: Oh, come on, give me a break! Traffic was crazy.
 الف: دوباره دیر کردی!
 ب: ای بابا، ولم کن دیگه! ترافیک افتضاح بود.
