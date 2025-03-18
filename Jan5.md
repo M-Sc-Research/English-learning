@@ -12,7 +12,6 @@
 
 7. maturely
 
-
 8. pinching 
 
 9. come on
