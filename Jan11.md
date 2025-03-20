@@ -3,7 +3,7 @@
 ”Claiming & Denying” 
 
 از كتاب 1000COLLOCATIONS IN 10 MINUTES A DAY
-(بسيار كاربردى در رايتينگ و اسپيكينگ آيلتس):
+
 
 
 🔆 Read and listen to this news report about a corruption scandal in a large company:
