@@ -4,6 +4,7 @@
 یعنی
  "امیدوارم موفق بشی!" یا "ایشالا که درست پیش بره!"
 ✅مثال:
+
 A: I have a big test tomorrow.<br>
 B: Fingers crossed for you!<br>
 الف: فردا امتحان بزرگ دارم.
