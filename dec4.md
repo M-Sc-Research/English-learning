@@ -5,7 +5,7 @@
  "امیدوارم موفق بشی!" یا "ایشالا که درست پیش بره!"
 
 ✅مثال:
-A: I have a big test tomorrow.
+A: I have a big test tomorrow.<br>
 B: Fingers crossed for you!
 الف: فردا امتحان بزرگ دارم.
 ب: ایشالا موفق بشی!
