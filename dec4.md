@@ -18,7 +18,7 @@ B: Fingers crossed for you!<br>
 A: Do you want to join the dance class?
 <br>
 B: Nah, it’s not my thing.
-الف: می‌خوای تو کلاس رقص شرکت کنی؟
+الف: می‌خوای تو کلاس رقص شرکت کنی؟<br>
 ب: نه، تو سبک من نیست.
 
 3. "It’s up to me."
