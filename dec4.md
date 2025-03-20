@@ -8,6 +8,7 @@
 A: I have a big test tomorrow.<br>
 B: Fingers crossed for you!<br>
 الف: فردا امتحان بزرگ دارم.
+
 ب: ایشالا موفق بشی!
 
 2. "It’s not my thing."
