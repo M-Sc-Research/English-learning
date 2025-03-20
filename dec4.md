@@ -37,7 +37,6 @@ B: I’m on it!
 
 5. "I’m over it."
 یعنی "بی‌خیالش شدم" یا "دیگه برام مهم نیست."
-
 ✅مثال:
 A: Are you still upset about what happened?
 B: Nah, I’m over it now.
