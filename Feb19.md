@@ -89,5 +89,3 @@ A: I have a big exam tomorrow.
 B: Good luck! Fingers crossed for you.
 الف: فردا یه امتحان مهم دارم.
 ب: موفق باشی! دعا می‌کنم خوب پیش بره.
-
-✈️@lingano_com
