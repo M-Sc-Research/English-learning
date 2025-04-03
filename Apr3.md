@@ -1,7 +1,7 @@
 💥💥  ”7️⃣”Movement & Speed” 
 
 از كتاب 1000COLLOCATIONS IN 10 MINUTES A DAY
-(بسيار كاربردى در رايتينگ و اسپيكينگ آيلتس):
+
 
 
 🔆To talk about changes in speed, we can say something is gaining speed or speeding up (to describe moving faster) or losing speed or slowing down (to describe moving slower).
