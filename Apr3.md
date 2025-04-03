@@ -1,6 +1,6 @@
 💥💥  ”7️⃣”Movement & Speed” 
 
-از كتاب 1000COLLOCATIONS IN 10 MINUTES A DAY
+ COLLOCATIONS IN 10 MINUTES A DAY
 
 
 
