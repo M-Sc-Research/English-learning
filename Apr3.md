@@ -8,7 +8,7 @@
 
 Finally, to talk about eating or walking in a slow and relaxed way, you can use the word “leisurely” After a leisurely breakfast, we took a leisurely stroll through the park.
 
-✅gaining speed or speeding up
+✅gaining speed or speeding up.
 (سرعت گرفتن)
 
 ✅losing speed or slowing down 
