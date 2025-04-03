@@ -21,11 +21,3 @@ Finally, to talk about eating or walking in a slow and relaxed way, you can use 
 (پياده روى اهسته و تفريحى)
 
 
-#Collocations 
-#Movement
-#Speed
-#SpeakingIELTS 
-#WritingTask2 
-#1000COLLOCATIONS_IN10MINUTES_ADAY
-
-🤖اموزش رایگان زبان از طریق بات تلگرام
