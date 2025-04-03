@@ -1,4 +1,4 @@
-💥💥  ”7️⃣”Movement & Speed” 
+💥💥  ”Movement & Speed” 
 
  COLLOCATIONS IN 10 MINUTES A DAY
 
