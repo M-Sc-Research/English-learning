@@ -1,4 +1,4 @@
-💥💥 : ”7️⃣”Movement & Speed” 
+💥💥  ”7️⃣”Movement & Speed” 
 
 از كتاب 1000COLLOCATIONS IN 10 MINUTES A DAY
 (بسيار كاربردى در رايتينگ و اسپيكينگ آيلتس):
