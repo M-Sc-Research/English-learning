@@ -1,4 +1,4 @@
-oh⬜️ say vs speak 
+
 
 
 "Say"<br>
