@@ -5,3 +5,5 @@ I have heard about the stunning beauty of this place from my friends who went th
 I have a plan to visit this place in the near future when I would have a vacation of more than 7 days. The local food of this place, especially the fried fish and shrimp, is famous, and that’s why I want to stay there for a few days to enjoy the beauty of this place while also taste the food. Perhaps, I will visit this place next December, if everything goes according to my plan.
 
 This place is worth visiting because it is one of the most naturally beautiful places in the whole country. There are lots of activities to do, lots of things to see and several famous menus to test. Since lots of people visit this place and highly recommend it to others, I am sure this place is worth visiting.
+
+Corcovado (Portuguese pronunciation: [koʁkoˈvadu]) which means "hunchback" in Portuguese,[1] is a mountain in central Rio de Janeiro, Brazil. It is a 710-metre (2,330-foot) granite peak located in the Tijuca Forest, a national park.
