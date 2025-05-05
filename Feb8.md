@@ -28,7 +28,7 @@
 ✅To solve this problem, we need to think outside the box.<br>
 برای حل این مشکل، باید خلاقانه فکر کنیم.
 
-5️⃣Pull your weight
+5️⃣Pull your weight <br>
 وظایف و سهم کار خود رو به‌خوبی و درستی انجام دادن
 
 ✅If everyone pulls their weight, we’ll finish the project on time.
