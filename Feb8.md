@@ -31,6 +31,6 @@
 5️⃣Pull your weight <br>
 وظایف و سهم کار خود رو به‌خوبی و درستی انجام دادن
 
-✅If everyone pulls their weight, we’ll finish the project on time.
+✅If everyone pulls their weight, we’ll finish the project on time.<br>
 اگر همه به درستی کارشون رو انجام بدند، پروژه رو به‌موقع تموم می‌کنیم.
 
