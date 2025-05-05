@@ -22,7 +22,7 @@
 ✅Let’s get the ball rolling on this project as soon as possible.
 بیایید هرچه زودتر این پروژه رو شروع کنیم.
 
-4️⃣Think outside the box 
+4️⃣Think outside the box <br>
 متفاوت و خلاقانه فکر کردن
 
 ✅To solve this problem, we need to think outside the box.<br>
