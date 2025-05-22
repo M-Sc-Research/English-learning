@@ -11,6 +11,7 @@
 ⚡️be used to + verb-ing/noun
 
 یعنی به چیزی عادت داشتن
+
 ✅He is used to getting up early.
 (به زود بیدار شدن عادت داره.)
 
