@@ -33,5 +33,3 @@
 
 ✅It is a sneaky and underhand way of doing business.
 این یک روش زیرکانه(آب‌زیرکاهانه) و پنهانی برای انجام تجارت هست.
-
-⭐ @lingano_com
