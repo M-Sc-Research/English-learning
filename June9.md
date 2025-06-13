@@ -16,6 +16,7 @@
 احمق
 
 ✅If you weren't such a bonehead for doing what you start out to do, we could do something interesting.
+<br>
 اگر برای انجام کاری که شروع به انجامش کردید انقدر احمق نبودی، می‌تونستیم کار جالبی انجام بدیم.
 
 4️⃣  Selfish
