@@ -22,6 +22,7 @@
 4️⃣  Selfish<br>
 خودخواه
 ✅The judge told him: "Your attitude shows a selfish disregard for others."<br>
+
 قاضی به او گفت: "رفتار شما نشان‌دهنده بی‌اعتنایی خودخواهانه به دیگران هست.
 
 5️⃣ Chatterbox
