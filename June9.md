@@ -9,6 +9,7 @@
 یک‌دنده
 
 ✅They have huge arguments because they're both so stubborn.
+<br>
 آن‌ها بحث‌های بزرگی دارند چون هر دو بسیار یک‌دنده هستند.
 
 3️⃣ Bonehead
