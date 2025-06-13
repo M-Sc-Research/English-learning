@@ -12,7 +12,7 @@
 <br>
 آن‌ها بحث‌های بزرگی دارند چون هر دو بسیار یک‌دنده هستند.
 
-3️⃣ Bonehead
+3️⃣ Bonehead<br>
 احمق
 
 ✅If you weren't such a bonehead for doing what you start out to do, we could do something interesting.
