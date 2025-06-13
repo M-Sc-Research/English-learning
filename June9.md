@@ -2,7 +2,7 @@
 1️⃣ Big mouth<br>
 دهن‌لق
 
-✅He went and opened his big mouth and told them the whole story.
+✅He went and opened his big mouth and told them the whole story.<br>
 او رفت و دهن‌لقی کرد و تمام ماجرا رو براشون تعریف کرد.
 
 2️⃣  Stubborn
