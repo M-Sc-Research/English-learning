@@ -5,7 +5,7 @@
 ✅He went and opened his big mouth and told them the whole story.<br>
 او رفت و دهن‌لقی کرد و تمام ماجرا رو براشون تعریف کرد.
 
-2️⃣  Stubborn
+2️⃣  Stubborn<br>
 یک‌دنده
 
 ✅They have huge arguments because they're both so stubborn.
