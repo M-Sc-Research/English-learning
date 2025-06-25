@@ -26,5 +26,3 @@ When you feel stressed, take a deep breath and relax.
 انرژی مثبت
 Let’s fill this space with positive vibes only.
 بیا اینجا رو فقط با انرژی مثبت پر کنیم.
-
-🧡باعشق
