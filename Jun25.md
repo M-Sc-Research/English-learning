@@ -3,6 +3,7 @@
 1️⃣Cheer up<br>
 حال کسی رو بهتر کردن / روحیه دادن<br>
 You look sad. Let’s watch a funny movie to cheer you up!
+
 ناراحت به‌نظر میای. بیا یه فیلم بامزه ببینیم تا حالت بهتر شه.
 
 2️⃣Hang in there
