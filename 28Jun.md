@@ -22,4 +22,3 @@ Let’s kick off the week with good energy!
 بیا هفته رو با انرژی خوب شروع کنیم!
 
 
-@lingano_com
