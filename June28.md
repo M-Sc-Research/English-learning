@@ -5,6 +5,7 @@
 <br>
 Every week is a chance for a fresh start.
 هر هفته یه فرصته برای شروعی تازه.
+<br>
 2️⃣Get organized
 سر و سامون دادن
 I need to get organized before the busy week begins.
