@@ -7,7 +7,7 @@ Every week is a chance for a fresh start.
 هر هفته یه فرصته برای شروعی تازه.
 <br>
 2️⃣Get organized
-سر و سامون دادن
+سر و سامون دادن<br>
 I need to get organized before the busy week begins.
 باید یه سر و سامونی بدم قبل از اینکه هفته‌ی شلوغ شروع بشه.
 3️⃣Set goals
