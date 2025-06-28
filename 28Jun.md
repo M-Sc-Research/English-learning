@@ -19,6 +19,7 @@ It’s not easy, but I’ll try to stay focused today.
 5️⃣Kick off
 شروع کردن (غیررسمی)
 Let’s kick off the week with good energy!
+<br>
 بیا هفته رو با انرژی خوب شروع کنیم!
 
 
