@@ -2,6 +2,7 @@
 
 1️⃣Fresh start
 شروع تازه
+<br>
 Every week is a chance for a fresh start.
 هر هفته یه فرصته برای شروعی تازه.
 2️⃣Get organized
