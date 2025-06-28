@@ -9,7 +9,7 @@ Every week is a chance for a fresh start.
 2️⃣Get organized
 سر و سامون دادن<br>
 I need to get organized before the busy week begins.
-باید یه سر و سامونی بدم قبل از اینکه هفته‌ی شلوغ شروع بشه.<br>>
+باید یه سر و سامونی بدم قبل از اینکه هفته‌ی شلوغ شروع بشه.<br>
 3️⃣Set goals
 هدف‌گذاری کردن
 Let’s set small goals for this week.
