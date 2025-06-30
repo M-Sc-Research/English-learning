@@ -23,4 +23,3 @@ If we lived near the beach, we would go swimming every day.
 🔑"I would..." → نتیجه‌ی خیالی اون شرط
 
 
-@lingano_com
