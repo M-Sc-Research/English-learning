@@ -13,7 +13,7 @@ B: I’m in the mood for sushi.
    یعنی "آره، منطقیه" یا "درست می‌گی."
 
 A: She didn’t come because she was sick.
-B: Oh okay, that makes sense.
+B: Oh, okay, that makes sense.
   الف: نیومد چون مریض بود.
   ب: آها، خب منطقیه.
 
@@ -40,5 +40,3 @@ A: Do you want some more tea?
 B: I’m good, thanks.
   الف: یه کم دیگه چای می‌خوای؟
   ب: نه مرسی، کافیه.
-
-💭@lingano_com
