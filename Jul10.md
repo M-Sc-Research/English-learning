@@ -1,4 +1,5 @@
 1️⃣"I’m in the mood for..."
+
    یعنی "هوسِ ... کردم" یا "دلم می‌خواد ..."
 
 A: What should we eat?
