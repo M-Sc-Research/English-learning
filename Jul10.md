@@ -4,6 +4,7 @@
 
 A: What should we eat?
 B: I’m in the mood for sushi.
+
   الف: چی بخوریم؟
   ب: دلم سوشی می‌خواد.
 
