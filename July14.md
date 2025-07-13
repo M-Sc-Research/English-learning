@@ -45,7 +45,3 @@ The class starts at 9 a.m.
    کلاس در ساعت ۹ صبح شروع میشه.
 I'll see you at noon.
    تو رو ظهر می‌بینم.
-
-#حروف_اضافه
-#گرامر 
-✅@lingano_com
