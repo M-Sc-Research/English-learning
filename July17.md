@@ -42,6 +42,7 @@ B: Yeah… and I’m sick of it.
   ب: آره... و واقعاً خسته‌م ازش.
 
 5️⃣"Let’s catch up soon!"
+
    یعنی "بیا یه وقت دوباره همو ببینیم / باهم حرف بزنیم!"
 
 A: Gotta run. Talk later?
