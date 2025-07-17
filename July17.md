@@ -32,6 +32,7 @@ B: I’m broke, dude. Next time.
   ب: بی‌پولم داداش، بذار واسه یه وقت دیگه.
 
 4️⃣"I’m sick of it."
+
    یعنی "دیگه خسته شدم ازش" یا "حالم ازش به‌هم می‌خوره."
 
 A: You’re still doing that job?
