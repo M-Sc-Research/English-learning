@@ -22,6 +22,7 @@ B: Yeah… it is what it is.
  ب: آره... دیگه کاریش نمی‌شه کرد.
 
 3️⃣"I’m broke."
+
    یعنی "پولم تموم شده" یا "بی‌پولم الان."
 
 A: Wanna go shopping?
