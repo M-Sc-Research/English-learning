@@ -12,6 +12,7 @@ B: No no, I’m just messing with you!
   ب: نه بابا، شوخی کردم!
 
 2️⃣"It is what it is."
+
    یعنی "دیگه کاریش نمی‌شه کرد" یا "همینه که هست."
 
 A: We didn’t win the game.
