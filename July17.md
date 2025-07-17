@@ -5,7 +5,9 @@
    یعنی "فقط داشتم اذیتت می‌کردم" یا "شوخی کردم!"
 
 A: Wait, are you serious?!
+
 B: No no, I’m just messing with you!
+
   الف: وای، جدی می‌گی؟!
   ب: نه بابا، شوخی کردم!
 
