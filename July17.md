@@ -27,6 +27,7 @@ B: Yeah… it is what it is.
 
 A: Wanna go shopping?
 B: I’m broke, dude. Next time.
+
  الف: بریم خرید؟
   ب: بی‌پولم داداش، بذار واسه یه وقت دیگه.
 
