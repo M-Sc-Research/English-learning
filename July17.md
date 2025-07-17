@@ -17,6 +17,7 @@ B: No no, I’m just messing with you!
 
 A: We didn’t win the game.
 B: Yeah… it is what it is.
+
  الف: بازیو باختیم.
  ب: آره... دیگه کاریش نمی‌شه کرد.
 
