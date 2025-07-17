@@ -37,6 +37,7 @@ B: I’m broke, dude. Next time.
 
 A: You’re still doing that job?
 B: Yeah… and I’m sick of it.
+
   الف: هنوزم همون کارو می‌کنی؟
   ب: آره... و واقعاً خسته‌م ازش.
 
