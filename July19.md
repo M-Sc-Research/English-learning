@@ -14,6 +14,7 @@
 <br>
 🔸Pineapple
 آناناس
+<br>
 🔹Fig
 انجیر
 🔸Strawberry
