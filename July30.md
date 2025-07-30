@@ -6,3 +6,4 @@ They are doing business in Japan
 
 Make بیشتر به نتیجه و محصول نهایی اشاره دارد. یعنی چیزی که ساخته یا خلق می‌شود. مثلا: make dinner, ،make a choice یا make friends
 Do برای انجام کارها، وظایف و فعالیت‌های روزمره استفاده می‌شود. Do روی فرایند و اقدام تمرکز دارد تا نتیجه. یعنی مسیر عمل مهم است و به دنبال نتیجه نیستیم. مثلا: do the dishes, do homework, یا do a job.
+
