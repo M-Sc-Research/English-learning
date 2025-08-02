@@ -27,5 +27,5 @@
 🔸️ Sounds good to me.<br>
 به نظر من خوبه.
 
-🔸️ For sure!
+🔸️ For sure!<br>
 مطمئناً!
