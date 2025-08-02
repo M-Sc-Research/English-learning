@@ -12,7 +12,7 @@
 🔸️ You’re absolutely right.<br>
 شما کاملاً درست می‌گید.
 
-🔸️ I see your point.
+🔸️ I see your point.<br>
 منظورتون رو می‌فهمم(حق با شماست)
 
 
