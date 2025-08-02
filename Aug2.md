@@ -31,5 +31,6 @@
 مطمئناً!
  "stuck in reverse"
 <br>
-= You feel like you're not moving forward
-in life
+= You feel like you're not moving forward in life
+
+=======================================================================================
