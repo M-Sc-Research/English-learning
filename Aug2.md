@@ -3,7 +3,7 @@
 🔸️ I completely agree with you.<br>
 کاملاً با شما موافقم.
 
-🔸️ That sounds reasonable.
+🔸️ That sounds reasonable.<br>
 معقول به نظر می‌رسه.
 
 🔸️ I’m in full agreement.
