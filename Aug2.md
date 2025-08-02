@@ -1,6 +1,6 @@
 عبارت‌های رسمی موافقت کردن به زبان انگلیسی:
 
-🔸️ I completely agree with you.
+🔸️ I completely agree with you.<br>
 کاملاً با شما موافقم.
 
 🔸️ That sounds reasonable.
