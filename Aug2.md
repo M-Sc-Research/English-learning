@@ -9,7 +9,7 @@
 🔸️ I’m in full agreement.<br>
 کاملاً موافقم.
 
-🔸️ You’re absolutely right.
+🔸️ You’re absolutely right.<br>
 شما کاملاً درست می‌گید.
 
 🔸️ I see your point.
