@@ -31,10 +31,5 @@
 مطمئناً!
  "stuck in reverse"
 <br>
-Anonymous Quiz
-42% You're constantly thinking about past
-mistakes
-X
-58% You feel like you're not moving forward
+= You feel like you're not moving forward
 in life
-1094 answers
