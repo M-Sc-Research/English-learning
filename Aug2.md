@@ -24,7 +24,7 @@
 🔸️ I totally agree!<br>
 کاملاً موافقم!
 
-🔸️ Sounds good to me.
+🔸️ Sounds good to me.<br>
 به نظر من خوبه.
 
 🔸️ For sure!
