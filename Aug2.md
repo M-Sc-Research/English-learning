@@ -6,7 +6,7 @@
 🔸️ That sounds reasonable.<br>
 معقول به نظر می‌رسه.
 
-🔸️ I’m in full agreement.
+🔸️ I’m in full agreement.<br>
 کاملاً موافقم.
 
 🔸️ You’re absolutely right.
