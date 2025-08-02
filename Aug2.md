@@ -21,7 +21,7 @@
 🔸️ Yeah, definitely!<br>
 آره، قطعاً!
 
-🔸️ I totally agree!
+🔸️ I totally agree!<br>
 کاملاً موافقم!
 
 🔸️ Sounds good to me.
