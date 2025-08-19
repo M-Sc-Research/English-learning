@@ -53,3 +53,45 @@ We have a two-hour layover in Istanbul.<br>
 
 
 <br>
+
+1. Cross my heart, hope to die
+🟡 قسم خوردن جدی، قولی که شکسته نشه.
+
+🟠  Cross my heart, hope to die, I’ll never tell your secret.
+به جونم قسم، رازتو هیچ‌وقت لو نمی‌دم.
+
+ 2. Ride or die
+🟡 رفیق/عشقی که تا آخر کنارته، چه خوب چه بد.
+
+🟠 She’s my ride or die, I can always count on her.
+اون رفیق جون جونی منه، همیشه روش حساب می‌کنم.
+
+3. Out of my mind
+🟡 دیوونه بودن (به خاطر عشق، هیجان یا استرس).
+
+🟠 I was out of my mind when I heard the news.
+وقتی اون خبر رو شنیدم، دیوونه شدم.
+
+4. Wouldn’t see the point of…
+🟡 هیچ دلیلی ندیدن برای انجام کاری.
+
+🟠 I wouldn’t see the point of going if you’re not coming.
+اگه تو نیای، دیگه دلیلی برای رفتن نمی‌بینم.
+
+5. Fuck the world (خیلی عامیانه)
+🟡 بی‌خیال همه، برام مهم نیست دیگران چی فکر می‌کنن.
+
+🟠 Sometimes you just gotta say “fuck the world” and do what you want.
+بعضی وقتا باید بی‌خیال همه شی و کاری رو بکنی که خودت می‌خوای.
+
+6. Down for whatever
+🟡 پایه‌ی هر کاری بودن، آماده بودن برای هرچیزی.
+
+🟠 If you wanna go out or just chill at home, I’m down for whatever.
+چه بخوای بریم بیرون چه بخوای خونه بمونیم، من پایه‌م.
+
+7. Mobbin’ (خیابونی/عامیانه)
+🟡 با باند/گروه بودن و خوش‌گذرونی کردن.
+
+🟠 We were mobbin’ downtown all night.
+کل شب رو دسته جمعی توی مرکز شهر می‌چرخیدیم.
