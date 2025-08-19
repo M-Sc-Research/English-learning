@@ -48,5 +48,5 @@ Please place your bag in the overhead compartment.
 
 🔵 Layover: توقف بین پرواز
 
-We have a two-hour layover in Istanbul.
+We have a two-hour layover in Istanbul.<br>
 ما یک توقف دو ساعته در استانبول داریم.
