@@ -126,3 +126,25 @@ I usually wake up at 7.
 
 👉 The plane took off at 9.
 هواپیما ساعت ۹ پرواز کرد.
+افعال چند قسمتی مربوط به زندگی روزمره
+
+✅ get along (with) = کنار اومدن / رابطه خوب داشتن
+
+مثال: 
+
+👉 Do you get along with your coworkers?
+با همکار‌هات خوب کنار میای؟
+
+✅ hang out = وقت گذروندن با کسی
+
+مثال: 
+
+👉 We usually hang out at the mall.
+ما معمولا توی مرکز خرید وقت می‌گذرونیم.
+
+✅ run into = به طور اتفاقی دیدن
+
+مثال: 
+
+👉 I ran into an old friend yesterday.
+دیروز یه دوست قدیمی رو اتفاقی دیدم.
