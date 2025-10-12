@@ -93,3 +93,36 @@ A: I lost my phone!
 B: It’s not the end of the world, you’ll find it.
 الف: گوشی‌مو گم کردم!
 ب: دنیا به آخر نرسیده، پیداش می‌کنی.
+
+
+افعال چند قسمتی مربوط به زندگی روزمره
+
+✅ wake up = بیدار شدن
+
+مثال:
+I usually wake up at 7.
+من معمولا ساعت ۷ بیدار می‌شم.
+
+✅get up = از تخت بلند شدن
+
+مثال:
+
+👉 She doesn’t want to get up early.
+اون دوست نداره زود از تخت بلند شه.
+
+✅put on = پوشیدن لباس
+
+مثال:
+
+👉 He put on his jacket and left.
+کاپشنشو پوشید و رفت.
+
+✅ take off = درآوردن لباس / بلند شدن هواپیما
+
+مثال:
+
+👉 Please take off your shoes.
+لطفا کفش‌هاتو دربیار.
+
+👉 The plane took off at 9.
+هواپیما ساعت ۹ پرواز کرد.
