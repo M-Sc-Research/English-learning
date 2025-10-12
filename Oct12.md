@@ -28,7 +28,7 @@ I think it depends on the person. For example, young people often choose fashion
 What is your favourite type of shoes?
 My favourite type is definitely sneakers. They’re light, casual, and versatile, so I can wear them almost everywhere, from going to the gym to meeting friends.
 
-این نمونه جواب ها و نمونه جواب های کامل تر در هر سه بخش در کانال پریمیوم اسپیکینگ قرار میگیرن. 
+ 
 حالا چرا این نمونه جواب ها خوبن و نمره بالایی میتونن بگیرن:
 
 1. در بخش اول سوالات راجع به موضوعات روزمره و آشنا (familiar topics) هست و باید در همون سطح شخصی براشون واژگان استفاده کرد بنابراین استفاده کردن کلمات قلمبه سلمبه خصوصا در این بخش نه تنها نشانه زبان قوی نیست بلکه نشانه ضعف زبان و عدم آشنایی با امتحان هست. 
