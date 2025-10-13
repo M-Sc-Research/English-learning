@@ -5,6 +5,7 @@
 مثال:
 
 ✅  We need to talk about the elephant in the room—our declining sales.
+
 ما باید در مورد موضوع مهم و آشکاری که همه از صحبت کردن درباره‌اش طفره می‌روند، یعنی کاهش فروشمان، صحبت کنیم.
 
 
