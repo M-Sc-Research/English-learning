@@ -66,4 +66,5 @@
 ✍️ کسی که انتظارش نمی‌رود، اما موفق می‌شود.
 
 ✅ She was the dark horse in the competition and surprised everyone.
+
 او فردی بود که هیچ کس انتظارش را نداشت، اما در مسابقه موفق شد و همه را شگفت‌زده کرد.
