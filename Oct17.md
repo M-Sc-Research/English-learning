@@ -1,4 +1,4 @@
-✅ 7 تا مثال برای یادگیری بهتر "جملات شرطی نوع 3"
+
 
 1️⃣ If I had studied harder, I would have passed the exam.
 
