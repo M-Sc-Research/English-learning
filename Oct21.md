@@ -19,7 +19,12 @@ idiom   saying (UK also cry over spilt milk)
 
 Add to word list 
 
-to feel sorry or sad about something that has already happened; used to emphasize that this is not helpful:
+to feel sorry or sad about something that has already happened;
+
+used to emphasize that this is not helpful:
+
 it's no use crying over spilled milk It's no use crying over spilled milk - he's spent all the money, and there's nothing you can do about it.
+
 It's a waste of time crying over spilt milk, he says; you just have to move on with your life.
+tts
 Here we are crying over spilled milk when we should be thinking about the future.
