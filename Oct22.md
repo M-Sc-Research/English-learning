@@ -62,4 +62,5 @@ She is playing the piano right now.
 🔵 مثال:
 
  She had left before I arrived.
+
  او قبل از اینکه من برسم، رفته بود.
