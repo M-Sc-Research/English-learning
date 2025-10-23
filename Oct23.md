@@ -15,13 +15,21 @@ You can give students the best resources, but you can’t make them study.
 🧠 You can educate a fool, but you cannot make him think
 
 🔹 ترجمه: آدم نادان را می‌توان آموزش داد، اما نمی‌توان وادارش کرد که فکر کند.
+
 🔹 مثال:
+
 You can teach him all the theories, but you can’t make him use his brain.
+
 📘 می‌توانی همه‌چیز را یادش بدهی، اما نمی‌توانی مجبورش کنی فکر کند.
+
 💬 A word to the wise is enough
+
 🔹 ترجمه: آدم عاقل با یک اشاره می‌فهمد.
+
 🔹 مثال:
+
 Don’t tell her everything — she’ll get the message. A word to the wise is enough.
+
 📘 لازم نیست همه چیز را توضیح دهی؛ آدم فهمیده خودش می‌گیرد.
 🍯 You catch more flies with honey than with vinegar
 🔹 ترجمه: با مهربانی بیشتر از تندی می‌توان کار پیش برد / هر کاری راهی دارد.
