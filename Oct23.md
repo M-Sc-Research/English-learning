@@ -47,9 +47,13 @@ If you want their help, be polite. You catch more flies with honey than with vin
 🔹 ترجمه: با دست خالی نمی‌شود کاری انجام داد.
 
 🔹 مثال:
+
 We can’t finish this project without proper funding — you can’t make bricks without straw.
+
 📘 بدون بودجه مناسب، پروژه پیش نمی‌رود.
+
 🔧 Where there’s a will, there’s a way
+
 🔹 ترجمه: خواستن توانستن است.
 🔹 مثال:
 It may be hard, but we’ll find a solution — where there’s a will, there’s a way.
