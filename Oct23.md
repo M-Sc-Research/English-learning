@@ -39,7 +39,9 @@ Don’t tell her everything — she’ll get the message. A word to the wise is 
 🔹 مثال:
 
 If you want their help, be polite. You catch more flies with honey than with vinegar.
+
 📘 اگر کمک می‌خواهی، مؤدب باش — مهربانی بیشتر اثر دارد.
+
 🧱 You can’t make bricks without straw
 🔹 ترجمه: با دست خالی نمی‌شود کاری انجام داد.
 🔹 مثال:
