@@ -31,9 +31,13 @@ You can teach him all the theories, but you can’t make him use his brain.
 Don’t tell her everything — she’ll get the message. A word to the wise is enough.
 
 📘 لازم نیست همه چیز را توضیح دهی؛ آدم فهمیده خودش می‌گیرد.
+
 🍯 You catch more flies with honey than with vinegar
+
 🔹 ترجمه: با مهربانی بیشتر از تندی می‌توان کار پیش برد / هر کاری راهی دارد.
+
 🔹 مثال:
+
 If you want their help, be polite. You catch more flies with honey than with vinegar.
 📘 اگر کمک می‌خواهی، مؤدب باش — مهربانی بیشتر اثر دارد.
 🧱 You can’t make bricks without straw
