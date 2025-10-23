@@ -82,5 +82,3 @@ When we ran out of power, they found a new way to keep the machines running — 
 
 📘 وقتی برق قطع شد، روشی تازه پیدا کردند؛ نیاز خلاقیت می‌آورد.
 
-📚 #proverb #englishlearning #writingandgrammar #learnenglish
-
