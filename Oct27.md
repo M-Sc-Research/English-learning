@@ -12,6 +12,3 @@ You should say :
 🔹why you want to make it
 🔹how it would affect your day
 🔹and explain how easy or difficult it would be to do.
-
-⚠️ حتما پیش از شروع جلسه، تاپیک را مطالعه فرمایید. تاپیک‌های خارج بحث تحلیل نخواهند شد
-.
