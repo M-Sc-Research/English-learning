@@ -28,4 +28,5 @@
 🔵 Beautiful (زیبا) --> the most beautiful (زیباترین)
 
 💡 She is the most beautiful girl in the world. 
+
 او زیباترین دختر در دنیاست.
