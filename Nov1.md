@@ -1,0 +1,5 @@
+💬 متن انگلیسی:
+
+🎤 For many years, two countries were in conflict, and there was only silence between them. Finally, the leaders decided to resume talks and start new negotiations, hoping to reach a deal. Some believed this could even turn into a lasting peace deal, especially since the main topic was very serious: nuclear negotiations. During the talks, both sides had to consider many different options. One country had placed strict sanctions against the other, but they promised to lift sanctions if real progress was made. This gave hope that the agreement would open the door for talks and lead to better future negotiations, showing everyone that only dialogue could build lasting peace.
+
+📱 @lingano_com
