@@ -35,5 +35,3 @@ I prefer coffee to tea.
 اگر بعد از prefer دو گزینه داری ➡️ از to استفاده کن.
 اگر بعد از اون یک عمل کلی میاد ➡️ می‌تونی از rather than کمک بگیری.
 #EnglishTips #Grammar #CommonMistakes 
-
-@ieltsmaster2024
