@@ -1,5 +1,3 @@
-🚗  اصطلاحات مربوط به مراحل ارسال و تحویل:
-
 🔴 Shipping / Shipment
 
 💡 Free shipping is available on orders over $50.
