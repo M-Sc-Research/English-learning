@@ -21,3 +21,29 @@
 💡 The courier will deliver your package tomorrow.
 
 پیک بسته‌تون رو فردا می‌رسونه.
+
+🔄 اصطلاحات مربوط به مراحل مرجوعی و پشتیبانی:
+
+🔴 Return
+
+💡 You can return the product within 14 days.
+
+می‌تونید کالا رو ظرف ۱۴ روز برگردونید.
+
+🔴 Refund
+
+💡 The company offered a full refund.
+
+شرکت بازپرداخت کامل رو پیشنهاد داد.
+
+🔴 Exchange
+
+💡 I exchanged the shirt for a larger size.
+
+پیراهن رو با سایز بزرگ‌تر عوض کردم.
+
+🔴 Customer Support
+
+💡 Contact customer support if you have any issues.
+
+اگر مشکلی داشتید با پشتیبانی تماس بگیرید.
