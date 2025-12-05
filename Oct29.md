@@ -1,5 +1,6 @@
 💡 Proverbs about finding the right way to get things done
 
+
 ضرب‌المثل‌هایی درباره‌ی پیدا کردن راه درست برای انجام کارها ✨
 
 🐴 You can lead a horse to water, but you can’t make it drink
