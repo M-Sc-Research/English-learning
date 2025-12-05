@@ -44,6 +44,5 @@ If this plan doesn’t work, we’ll try another. There’s more than one way to
 🔹 ترجمه: نیاز، مادر اختراعات است.
 🔹 مثال:
 When we ran out of power, they found a new way to keep the machines running — necessity is the mother of invention.
-📘 وقتی برق قطع شد، روشی تازه پیدا کردند؛ نیاز خلاقیت می‌آورد.
-📚 #proverb #englishlearning #writingandgrammar #learnenglish
+📘 وقتی برق قطع شد، روشی تازه پیدا کردند؛ نیاز خلاقیت می‌آورد
 
