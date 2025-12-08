@@ -8,5 +8,4 @@ This place is worth visiting because it is one of the most naturally beautiful p
 
 Corcovado (Portuguese pronunciation: [koʁkoˈvadu]) which means "hunchback" in Portuguese,[1] is a mountain in central Rio de Janeiro, Brazil. It is a 710-metre (2,330-foot) granite peak located in the Tijuca Forest, a national park.
 
-
 Corcovado hill lies just west of the city center but is wholly within the city limits and visible from great distances. It is known worldwide for the statue of Jesus atop its peak, entitled Christ the Redeemer.
