@@ -1,4 +1,4 @@
-🌀اصطلاحات آموزشی آهنگ The Fate of Ophelia:
+
 
 1️⃣ As legend has it
 
