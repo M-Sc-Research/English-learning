@@ -24,4 +24,3 @@ NOT GIVEN یعنی متن اصلاً درباره‌ش نظر نمی‌ده
 برای نکته‌ها و تمرین‌های بیشتر آیلتس!
 #IELTS #IELTSReading #IELTSTips #IELTSPreparation
 
-@ieltsmaster2024
