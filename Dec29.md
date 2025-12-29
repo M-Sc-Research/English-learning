@@ -7,7 +7,9 @@
 • 🔍 Answers follow the order of the passage
 
 لازم نیست کل متن رو بگردی—از بالا به پایین پیش برو!
+
 • ✍️ Underline keywords before reading
+
 به کلمات کلیدی، تاریخ‌ها، اعداد و واژه‌های حساس دقت کن.
 • 🔄 Always think about synonyms & paraphrasing
 متن خیلی کم پیش میاد دقیقاً همون کلمات سؤال رو تکرار کنه!
