@@ -19,8 +19,3 @@ NOT GIVEN یعنی متن اصلاً درباره‌ش نظر نمی‌ده
 • 🕵🏻‍♂️ Beware of traps like general vs specific
 مثلاً متن بگه “many people” ولی سؤال بگه “all people” → FALSE
 
-💍 @ieltsmaster2024
-
-برای نکته‌ها و تمرین‌های بیشتر آیلتس!
-#IELTS #IELTSReading #IELTSTips #IELTSPreparation
-
